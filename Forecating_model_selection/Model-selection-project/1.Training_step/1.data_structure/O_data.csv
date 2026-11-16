@@ -1,0 +1,2011 @@
+id,years,quarters,company,sales
+1,2009,1,Apple Inc.,
+1,2009,1,BlackBerry Limited,7.3
+1,2009,1,Coolpad Group Limited,0.0
+1,2009,1,Gionee Communication Equipment Co. Ltd.,0.0
+1,2009,1,Google LLC,0.0
+1,2009,1,HMD (Nokia),0.0
+1,2009,1,HTC Corporation,
+1,2009,1,"Honor Device Co., Ltd.",0.0
+1,2009,1,"Huawei Technologies Co., Ltd.",
+1,2009,1,Infinix Mobile,0.0
+1,2009,1,Itel Mobile,0.0
+1,2009,1,LG Electronics,0.0
+1,2009,1,Lenovo - Motorola,0.0
+1,2009,1,Lenovo Group Ltd.,0.0
+1,2009,1,"Meizu Technology Co., Ltd.",
+1,2009,1,Micromax,
+1,2009,1,Microsoft Corporation,0.0
+1,2009,1,Motorola Mobility,
+1,2009,1,Nokia Corporation,13.7
+1,2009,1,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+1,2009,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+1,2009,1,"Samsung Electronics Co., Ltd.",
+1,2009,1,Sony Corporation,
+1,2009,1,TCLAlcatel,0.0
+1,2009,1,Tecno Mobile,0.0
+1,2009,1,"Transsion Holdings Co., Ltd.",0.0
+1,2009,1,"Vivo Communication Technology Co., Ltd.",0.0
+1,2009,1,Xiaomi Inc.,0.0
+1,2009,1,ZTE Corporation,
+1,2009,1,total,
+4,2009,4,Apple Inc.,8.7
+4,2009,4,BlackBerry Limited,10.7
+4,2009,4,Coolpad Group Limited,0.0
+4,2009,4,Gionee Communication Equipment Co. Ltd.,0.0
+4,2009,4,Google LLC,0.0
+4,2009,4,HMD (Nokia),0.0
+4,2009,4,HTC Corporation,
+4,2009,4,"Honor Device Co., Ltd.",0.0
+4,2009,4,"Huawei Technologies Co., Ltd.",
+4,2009,4,Infinix Mobile,0.0
+4,2009,4,Itel Mobile,0.0
+4,2009,4,LG Electronics,0.0
+4,2009,4,Lenovo - Motorola,0.0
+4,2009,4,Lenovo Group Ltd.,0.0
+4,2009,4,"Meizu Technology Co., Ltd.",
+4,2009,4,Micromax,
+4,2009,4,Microsoft Corporation,0.0
+4,2009,4,Motorola Mobility,
+4,2009,4,Nokia Corporation,20.8
+4,2009,4,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+4,2009,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+4,2009,4,"Samsung Electronics Co., Ltd.",
+4,2009,4,Sony Corporation,
+4,2009,4,TCLAlcatel,0.0
+4,2009,4,Tecno Mobile,0.0
+4,2009,4,"Transsion Holdings Co., Ltd.",0.0
+4,2009,4,"Vivo Communication Technology Co., Ltd.",0.0
+4,2009,4,Xiaomi Inc.,0.0
+4,2009,4,ZTE Corporation,
+4,2009,4,total,53.9
+5,2010,1,Apple Inc.,
+5,2010,1,BlackBerry Limited,10.6
+5,2010,1,Coolpad Group Limited,0.0
+5,2010,1,Gionee Communication Equipment Co. Ltd.,
+5,2010,1,Google LLC,0.0
+5,2010,1,HMD (Nokia),0.0
+5,2010,1,HTC Corporation,
+5,2010,1,"Honor Device Co., Ltd.",0.0
+5,2010,1,"Huawei Technologies Co., Ltd.",
+5,2010,1,Infinix Mobile,0.0
+5,2010,1,Itel Mobile,0.0
+5,2010,1,LG Electronics,
+5,2010,1,Lenovo - Motorola,0.0
+5,2010,1,Lenovo Group Ltd.,0.0
+5,2010,1,"Meizu Technology Co., Ltd.",
+5,2010,1,Micromax,
+5,2010,1,Microsoft Corporation,
+5,2010,1,Motorola Mobility,
+5,2010,1,Nokia Corporation,21.5
+5,2010,1,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+5,2010,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+5,2010,1,"Samsung Electronics Co., Ltd.",
+5,2010,1,Sony Corporation,
+5,2010,1,TCLAlcatel,
+5,2010,1,Tecno Mobile,0.0
+5,2010,1,"Transsion Holdings Co., Ltd.",0.0
+5,2010,1,"Vivo Communication Technology Co., Ltd.",0.0
+5,2010,1,Xiaomi Inc.,0.0
+5,2010,1,ZTE Corporation,
+5,2010,1,total,60.5
+6,2010,2,Apple Inc.,8.4
+6,2010,2,BlackBerry Limited,
+6,2010,2,Coolpad Group Limited,0.0
+6,2010,2,Gionee Communication Equipment Co. Ltd.,
+6,2010,2,Google LLC,0.0
+6,2010,2,HMD (Nokia),0.0
+6,2010,2,HTC Corporation,
+6,2010,2,"Honor Device Co., Ltd.",0.0
+6,2010,2,"Huawei Technologies Co., Ltd.",
+6,2010,2,Infinix Mobile,0.0
+6,2010,2,Itel Mobile,0.0
+6,2010,2,LG Electronics,
+6,2010,2,Lenovo - Motorola,0.0
+6,2010,2,Lenovo Group Ltd.,0.0
+6,2010,2,"Meizu Technology Co., Ltd.",
+6,2010,2,Micromax,
+6,2010,2,Microsoft Corporation,
+6,2010,2,Motorola Mobility,
+6,2010,2,Nokia Corporation,23.8
+6,2010,2,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+6,2010,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+6,2010,2,"Samsung Electronics Co., Ltd.",3.1
+6,2010,2,Sony Corporation,
+6,2010,2,TCLAlcatel,
+6,2010,2,Tecno Mobile,0.0
+6,2010,2,"Transsion Holdings Co., Ltd.",0.0
+6,2010,2,"Vivo Communication Technology Co., Ltd.",0.0
+6,2010,2,Xiaomi Inc.,0.0
+6,2010,2,ZTE Corporation,
+6,2010,2,total,62.4
+7,2010,3,Apple Inc.,14.1
+7,2010,3,BlackBerry Limited,
+7,2010,3,Coolpad Group Limited,0.0
+7,2010,3,Gionee Communication Equipment Co. Ltd.,
+7,2010,3,Google LLC,0.0
+7,2010,3,HMD (Nokia),0.0
+7,2010,3,HTC Corporation,
+7,2010,3,"Honor Device Co., Ltd.",0.0
+7,2010,3,"Huawei Technologies Co., Ltd.",
+7,2010,3,Infinix Mobile,0.0
+7,2010,3,Itel Mobile,0.0
+7,2010,3,LG Electronics,
+7,2010,3,Lenovo - Motorola,0.0
+7,2010,3,Lenovo Group Ltd.,0.0
+7,2010,3,"Meizu Technology Co., Ltd.",
+7,2010,3,Micromax,
+7,2010,3,Microsoft Corporation,
+7,2010,3,Motorola Mobility,
+7,2010,3,Nokia Corporation,26.5
+7,2010,3,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+7,2010,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+7,2010,3,"Samsung Electronics Co., Ltd.",7.5
+7,2010,3,Sony Corporation,
+7,2010,3,TCLAlcatel,
+7,2010,3,Tecno Mobile,0.0
+7,2010,3,"Transsion Holdings Co., Ltd.",0.0
+7,2010,3,"Vivo Communication Technology Co., Ltd.",0.0
+7,2010,3,Xiaomi Inc.,0.0
+7,2010,3,ZTE Corporation,
+7,2010,3,total,81.0
+8,2010,4,Apple Inc.,16.2
+8,2010,4,BlackBerry Limited,14.6
+8,2010,4,Coolpad Group Limited,0.0
+8,2010,4,Gionee Communication Equipment Co. Ltd.,
+8,2010,4,Google LLC,0.0
+8,2010,4,HMD (Nokia),0.0
+8,2010,4,HTC Corporation,
+8,2010,4,"Honor Device Co., Ltd.",0.0
+8,2010,4,"Huawei Technologies Co., Ltd.",
+8,2010,4,Infinix Mobile,0.0
+8,2010,4,Itel Mobile,0.0
+8,2010,4,LG Electronics,
+8,2010,4,Lenovo - Motorola,0.0
+8,2010,4,Lenovo Group Ltd.,0.0
+8,2010,4,"Meizu Technology Co., Ltd.",
+8,2010,4,Micromax,
+8,2010,4,Microsoft Corporation,
+8,2010,4,Motorola Mobility,
+8,2010,4,Nokia Corporation,28.3
+8,2010,4,"Oppo Mobile Telecommunications Corp., Ltd.",0.0
+8,2010,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+8,2010,4,"Samsung Electronics Co., Ltd.",
+8,2010,4,Sony Corporation,
+8,2010,4,TCLAlcatel,
+8,2010,4,Tecno Mobile,0.0
+8,2010,4,"Transsion Holdings Co., Ltd.",0.0
+8,2010,4,"Vivo Communication Technology Co., Ltd.",0.0
+8,2010,4,Xiaomi Inc.,0.0
+8,2010,4,ZTE Corporation,
+8,2010,4,total,94.1
+9,2011,1,Apple Inc.,18.6
+9,2011,1,BlackBerry Limited,
+9,2011,1,Coolpad Group Limited,0.0
+9,2011,1,Gionee Communication Equipment Co. Ltd.,
+9,2011,1,Google LLC,0.0
+9,2011,1,HMD (Nokia),0.0
+9,2011,1,HTC Corporation,
+9,2011,1,"Honor Device Co., Ltd.",0.0
+9,2011,1,"Huawei Technologies Co., Ltd.",
+9,2011,1,Infinix Mobile,0.0
+9,2011,1,Itel Mobile,0.0
+9,2011,1,LG Electronics,
+9,2011,1,Lenovo - Motorola,0.0
+9,2011,1,Lenovo Group Ltd.,0.0
+9,2011,1,"Meizu Technology Co., Ltd.",
+9,2011,1,Micromax,
+9,2011,1,Microsoft Corporation,
+9,2011,1,Motorola Mobility,
+9,2011,1,Nokia Corporation,24.2
+9,2011,1,"Oppo Mobile Telecommunications Corp., Ltd.",
+9,2011,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+9,2011,1,"Samsung Electronics Co., Ltd.",12.6
+9,2011,1,Sony Corporation,
+9,2011,1,TCLAlcatel,
+9,2011,1,Tecno Mobile,0.0
+9,2011,1,"Transsion Holdings Co., Ltd.",0.0
+9,2011,1,"Vivo Communication Technology Co., Ltd.",0.0
+9,2011,1,Xiaomi Inc.,0.0
+9,2011,1,ZTE Corporation,
+9,2011,1,total,103.0
+10,2011,2,Apple Inc.,20.3
+10,2011,2,BlackBerry Limited,
+10,2011,2,Coolpad Group Limited,0.0
+10,2011,2,Gionee Communication Equipment Co. Ltd.,
+10,2011,2,Google LLC,0.0
+10,2011,2,HMD (Nokia),0.0
+10,2011,2,HTC Corporation,
+10,2011,2,"Honor Device Co., Ltd.",0.0
+10,2011,2,"Huawei Technologies Co., Ltd.",
+10,2011,2,Infinix Mobile,0.0
+10,2011,2,Itel Mobile,0.0
+10,2011,2,LG Electronics,
+10,2011,2,Lenovo - Motorola,0.0
+10,2011,2,Lenovo Group Ltd.,0.0
+10,2011,2,"Meizu Technology Co., Ltd.",
+10,2011,2,Micromax,
+10,2011,2,Microsoft Corporation,
+10,2011,2,Motorola Mobility,
+10,2011,2,Nokia Corporation,16.7
+10,2011,2,"Oppo Mobile Telecommunications Corp., Ltd.",
+10,2011,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+10,2011,2,"Samsung Electronics Co., Ltd.",19.2
+10,2011,2,Sony Corporation,
+10,2011,2,TCLAlcatel,
+10,2011,2,Tecno Mobile,0.0
+10,2011,2,"Transsion Holdings Co., Ltd.",0.0
+10,2011,2,"Vivo Communication Technology Co., Ltd.",0.0
+10,2011,2,Xiaomi Inc.,0.0
+10,2011,2,ZTE Corporation,
+10,2011,2,total,110.0
+11,2011,3,Apple Inc.,17.1
+11,2011,3,BlackBerry Limited,11.8
+11,2011,3,Coolpad Group Limited,0.0
+11,2011,3,Gionee Communication Equipment Co. Ltd.,
+11,2011,3,Google LLC,0.0
+11,2011,3,HMD (Nokia),0.0
+11,2011,3,HTC Corporation,12.7
+11,2011,3,"Honor Device Co., Ltd.",0.0
+11,2011,3,"Huawei Technologies Co., Ltd.",
+11,2011,3,Infinix Mobile,0.0
+11,2011,3,Itel Mobile,0.0
+11,2011,3,LG Electronics,
+11,2011,3,Lenovo - Motorola,0.0
+11,2011,3,Lenovo Group Ltd.,0.0
+11,2011,3,"Meizu Technology Co., Ltd.",
+11,2011,3,Micromax,
+11,2011,3,Microsoft Corporation,
+11,2011,3,Motorola Mobility,
+11,2011,3,Nokia Corporation,16.8
+11,2011,3,"Oppo Mobile Telecommunications Corp., Ltd.",
+11,2011,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+11,2011,3,"Samsung Electronics Co., Ltd.",28.1
+11,2011,3,Sony Corporation,
+11,2011,3,TCLAlcatel,
+11,2011,3,Tecno Mobile,0.0
+11,2011,3,"Transsion Holdings Co., Ltd.",0.0
+11,2011,3,"Vivo Communication Technology Co., Ltd.",0.0
+11,2011,3,Xiaomi Inc.,0.0
+11,2011,3,ZTE Corporation,4.1
+11,2011,3,total,121.8
+12,2011,4,Apple Inc.,37.0
+12,2011,4,BlackBerry Limited,
+12,2011,4,Coolpad Group Limited,0.0
+12,2011,4,Gionee Communication Equipment Co. Ltd.,
+12,2011,4,Google LLC,0.0
+12,2011,4,HMD (Nokia),0.0
+12,2011,4,HTC Corporation,
+12,2011,4,"Honor Device Co., Ltd.",0.0
+12,2011,4,"Huawei Technologies Co., Ltd.",5.7
+12,2011,4,Infinix Mobile,0.0
+12,2011,4,Itel Mobile,0.0
+12,2011,4,LG Electronics,
+12,2011,4,Lenovo - Motorola,0.0
+12,2011,4,Lenovo Group Ltd.,0.0
+12,2011,4,"Meizu Technology Co., Ltd.",
+12,2011,4,Micromax,
+12,2011,4,Microsoft Corporation,
+12,2011,4,Motorola Mobility,
+12,2011,4,Nokia Corporation,19.6
+12,2011,4,"Oppo Mobile Telecommunications Corp., Ltd.",
+12,2011,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+12,2011,4,"Samsung Electronics Co., Ltd.",36.3
+12,2011,4,Sony Corporation,6.3
+12,2011,4,TCLAlcatel,
+12,2011,4,Tecno Mobile,0.0
+12,2011,4,"Transsion Holdings Co., Ltd.",0.0
+12,2011,4,"Vivo Communication Technology Co., Ltd.",0.0
+12,2011,4,Xiaomi Inc.,0.0
+12,2011,4,ZTE Corporation,6.4
+12,2011,4,total,158.9
+13,2012,1,Apple Inc.,35.1
+13,2012,1,BlackBerry Limited,
+13,2012,1,Coolpad Group Limited,
+13,2012,1,Gionee Communication Equipment Co. Ltd.,
+13,2012,1,Google LLC,0.0
+13,2012,1,HMD (Nokia),0.0
+13,2012,1,HTC Corporation,
+13,2012,1,"Honor Device Co., Ltd.",0.0
+13,2012,1,"Huawei Technologies Co., Ltd.",
+13,2012,1,Infinix Mobile,0.0
+13,2012,1,Itel Mobile,0.0
+13,2012,1,LG Electronics,
+13,2012,1,Lenovo - Motorola,0.0
+13,2012,1,Lenovo Group Ltd.,
+13,2012,1,"Meizu Technology Co., Ltd.",
+13,2012,1,Micromax,
+13,2012,1,Microsoft Corporation,
+13,2012,1,Motorola Mobility,
+13,2012,1,Nokia Corporation,11.9
+13,2012,1,"Oppo Mobile Telecommunications Corp., Ltd.",
+13,2012,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+13,2012,1,"Samsung Electronics Co., Ltd.",44.5
+13,2012,1,Sony Corporation,
+13,2012,1,TCLAlcatel,
+13,2012,1,Tecno Mobile,0.0
+13,2012,1,"Transsion Holdings Co., Ltd.",0.0
+13,2012,1,"Vivo Communication Technology Co., Ltd.",
+13,2012,1,Xiaomi Inc.,
+13,2012,1,ZTE Corporation,
+13,2012,1,total,145.3
+14,2012,2,Apple Inc.,26.0
+14,2012,2,BlackBerry Limited,
+14,2012,2,Coolpad Group Limited,
+14,2012,2,Gionee Communication Equipment Co. Ltd.,
+14,2012,2,Google LLC,0.0
+14,2012,2,HMD (Nokia),0.0
+14,2012,2,HTC Corporation,
+14,2012,2,"Honor Device Co., Ltd.",0.0
+14,2012,2,"Huawei Technologies Co., Ltd.",6.6
+14,2012,2,Infinix Mobile,0.0
+14,2012,2,Itel Mobile,0.0
+14,2012,2,LG Electronics,5.8
+14,2012,2,Lenovo - Motorola,0.0
+14,2012,2,Lenovo Group Ltd.,
+14,2012,2,"Meizu Technology Co., Ltd.",
+14,2012,2,Micromax,
+14,2012,2,Microsoft Corporation,
+14,2012,2,Motorola Mobility,
+14,2012,2,Nokia Corporation,
+14,2012,2,"Oppo Mobile Telecommunications Corp., Ltd.",
+14,2012,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+14,2012,2,"Samsung Electronics Co., Ltd.",48.7
+14,2012,2,Sony Corporation,
+14,2012,2,TCLAlcatel,
+14,2012,2,Tecno Mobile,0.0
+14,2012,2,"Transsion Holdings Co., Ltd.",0.0
+14,2012,2,"Vivo Communication Technology Co., Ltd.",
+14,2012,2,Xiaomi Inc.,
+14,2012,2,ZTE Corporation,5.8
+14,2012,2,total,156.5
+15,2012,3,Apple Inc.,26.9
+15,2012,3,BlackBerry Limited,7.7
+15,2012,3,Coolpad Group Limited,
+15,2012,3,Gionee Communication Equipment Co. Ltd.,
+15,2012,3,Google LLC,0.0
+15,2012,3,HMD (Nokia),0.0
+15,2012,3,HTC Corporation,7.3
+15,2012,3,"Honor Device Co., Ltd.",0.0
+15,2012,3,"Huawei Technologies Co., Ltd.",
+15,2012,3,Infinix Mobile,0.0
+15,2012,3,Itel Mobile,0.0
+15,2012,3,LG Electronics,
+15,2012,3,Lenovo - Motorola,0.0
+15,2012,3,Lenovo Group Ltd.,
+15,2012,3,"Meizu Technology Co., Ltd.",
+15,2012,3,Micromax,
+15,2012,3,Microsoft Corporation,
+15,2012,3,Motorola Mobility,
+15,2012,3,Nokia Corporation,
+15,2012,3,"Oppo Mobile Telecommunications Corp., Ltd.",
+15,2012,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+15,2012,3,"Samsung Electronics Co., Ltd.",56.6
+15,2012,3,Sony Corporation,
+15,2012,3,TCLAlcatel,
+15,2012,3,Tecno Mobile,0.0
+15,2012,3,"Transsion Holdings Co., Ltd.",0.0
+15,2012,3,"Vivo Communication Technology Co., Ltd.",
+15,2012,3,Xiaomi Inc.,
+15,2012,3,ZTE Corporation,7.5
+15,2012,3,total,170.7
+16,2012,4,Apple Inc.,47.8
+16,2012,4,BlackBerry Limited,
+16,2012,4,Coolpad Group Limited,
+16,2012,4,Gionee Communication Equipment Co. Ltd.,
+16,2012,4,Google LLC,0.0
+16,2012,4,HMD (Nokia),0.0
+16,2012,4,HTC Corporation,
+16,2012,4,"Honor Device Co., Ltd.",0.0
+16,2012,4,"Huawei Technologies Co., Ltd.",10.8
+16,2012,4,Infinix Mobile,0.0
+16,2012,4,Itel Mobile,0.0
+16,2012,4,LG Electronics,
+16,2012,4,Lenovo - Motorola,0.0
+16,2012,4,Lenovo Group Ltd.,
+16,2012,4,"Meizu Technology Co., Ltd.",
+16,2012,4,Micromax,
+16,2012,4,Microsoft Corporation,
+16,2012,4,Motorola Mobility,
+16,2012,4,Nokia Corporation,6.6
+16,2012,4,"Oppo Mobile Telecommunications Corp., Ltd.",
+16,2012,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+16,2012,4,"Samsung Electronics Co., Ltd.",63.3
+16,2012,4,Sony Corporation,9.8
+16,2012,4,TCLAlcatel,
+16,2012,4,Tecno Mobile,0.0
+16,2012,4,"Transsion Holdings Co., Ltd.",0.0
+16,2012,4,"Vivo Communication Technology Co., Ltd.",
+16,2012,4,Xiaomi Inc.,
+16,2012,4,ZTE Corporation,9.5
+16,2012,4,total,218.2
+17,2013,1,Apple Inc.,37.4
+17,2013,1,BlackBerry Limited,
+17,2013,1,Coolpad Group Limited,
+17,2013,1,Gionee Communication Equipment Co. Ltd.,
+17,2013,1,Google LLC,0.0
+17,2013,1,HMD (Nokia),0.0
+17,2013,1,HTC Corporation,
+17,2013,1,"Honor Device Co., Ltd.",
+17,2013,1,"Huawei Technologies Co., Ltd.",10.0
+17,2013,1,Infinix Mobile,
+17,2013,1,Itel Mobile,0.0
+17,2013,1,LG Electronics,10.3
+17,2013,1,Lenovo - Motorola,0.0
+17,2013,1,Lenovo Group Ltd.,9.1
+17,2013,1,"Meizu Technology Co., Ltd.",
+17,2013,1,Micromax,
+17,2013,1,Microsoft Corporation,
+17,2013,1,Motorola Mobility,
+17,2013,1,Nokia Corporation,6.1
+17,2013,1,"Oppo Mobile Telecommunications Corp., Ltd.",
+17,2013,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+17,2013,1,"Samsung Electronics Co., Ltd.",69.3
+17,2013,1,Sony Corporation,8.1
+17,2013,1,TCLAlcatel,
+17,2013,1,Tecno Mobile,
+17,2013,1,"Transsion Holdings Co., Ltd.",0.0
+17,2013,1,"Vivo Communication Technology Co., Ltd.",
+17,2013,1,Xiaomi Inc.,3.2
+17,2013,1,ZTE Corporation,
+17,2013,1,total,222.7
+18,2013,2,Apple Inc.,31.2
+18,2013,2,BlackBerry Limited,
+18,2013,2,Coolpad Group Limited,8.2
+18,2013,2,Gionee Communication Equipment Co. Ltd.,
+18,2013,2,Google LLC,0.0
+18,2013,2,HMD (Nokia),0.0
+18,2013,2,HTC Corporation,7.1
+18,2013,2,"Honor Device Co., Ltd.",
+18,2013,2,"Huawei Technologies Co., Ltd.",11.1
+18,2013,2,Infinix Mobile,
+18,2013,2,Itel Mobile,0.0
+18,2013,2,LG Electronics,12.1
+18,2013,2,Lenovo - Motorola,0.0
+18,2013,2,Lenovo Group Ltd.,11.0
+18,2013,2,"Meizu Technology Co., Ltd.",
+18,2013,2,Micromax,1.7
+18,2013,2,Microsoft Corporation,7.4
+18,2013,2,Motorola Mobility,3.7
+18,2013,2,Nokia Corporation,
+18,2013,2,"Oppo Mobile Telecommunications Corp., Ltd.",
+18,2013,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+18,2013,2,"Samsung Electronics Co., Ltd.",76.7
+18,2013,2,Sony Corporation,9.6
+18,2013,2,TCLAlcatel,3.4
+18,2013,2,Tecno Mobile,
+18,2013,2,"Transsion Holdings Co., Ltd.",0.0
+18,2013,2,"Vivo Communication Technology Co., Ltd.",
+18,2013,2,Xiaomi Inc.,4.3
+18,2013,2,ZTE Corporation,11.5
+18,2013,2,total,244.1
+19,2013,3,Apple Inc.,33.8
+19,2013,3,BlackBerry Limited,
+19,2013,3,Coolpad Group Limited,
+19,2013,3,Gionee Communication Equipment Co. Ltd.,
+19,2013,3,Google LLC,0.0
+19,2013,3,HMD (Nokia),0.0
+19,2013,3,HTC Corporation,
+19,2013,3,"Honor Device Co., Ltd.",
+19,2013,3,"Huawei Technologies Co., Ltd.",12.9
+19,2013,3,Infinix Mobile,
+19,2013,3,Itel Mobile,0.0
+19,2013,3,LG Electronics,12.0
+19,2013,3,Lenovo - Motorola,0.0
+19,2013,3,Lenovo Group Ltd.,12.5
+19,2013,3,"Meizu Technology Co., Ltd.",
+19,2013,3,Micromax,
+19,2013,3,Microsoft Corporation,8.8
+19,2013,3,Motorola Mobility,
+19,2013,3,Nokia Corporation,
+19,2013,3,"Oppo Mobile Telecommunications Corp., Ltd.",
+19,2013,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+19,2013,3,"Samsung Electronics Co., Ltd.",86.5
+19,2013,3,Sony Corporation,
+19,2013,3,TCLAlcatel,
+19,2013,3,Tecno Mobile,
+19,2013,3,"Transsion Holdings Co., Ltd.",0.0
+19,2013,3,"Vivo Communication Technology Co., Ltd.",
+19,2013,3,Xiaomi Inc.,5.3
+19,2013,3,ZTE Corporation,
+19,2013,3,total,266.9
+20,2013,4,Apple Inc.,51.0
+20,2013,4,BlackBerry Limited,
+20,2013,4,Coolpad Group Limited,
+20,2013,4,Gionee Communication Equipment Co. Ltd.,
+20,2013,4,Google LLC,0.0
+20,2013,4,HMD (Nokia),0.0
+20,2013,4,HTC Corporation,
+20,2013,4,"Honor Device Co., Ltd.",
+20,2013,4,"Huawei Technologies Co., Ltd.",16.9
+20,2013,4,Infinix Mobile,
+20,2013,4,Itel Mobile,0.0
+20,2013,4,LG Electronics,13.2
+20,2013,4,Lenovo - Motorola,18.4
+20,2013,4,Lenovo Group Ltd.,
+20,2013,4,"Meizu Technology Co., Ltd.",
+20,2013,4,Micromax,
+20,2013,4,Microsoft Corporation,
+20,2013,4,Motorola Mobility,
+20,2013,4,Nokia Corporation,
+20,2013,4,"Oppo Mobile Telecommunications Corp., Ltd.",
+20,2013,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+20,2013,4,"Samsung Electronics Co., Ltd.",86.3
+20,2013,4,Sony Corporation,
+20,2013,4,TCLAlcatel,7.7
+20,2013,4,Tecno Mobile,
+20,2013,4,"Transsion Holdings Co., Ltd.",0.0
+20,2013,4,"Vivo Communication Technology Co., Ltd.",
+20,2013,4,Xiaomi Inc.,6.4
+20,2013,4,ZTE Corporation,
+20,2013,4,total,296.2
+21,2014,1,Apple Inc.,43.7
+21,2014,1,BlackBerry Limited,
+21,2014,1,Coolpad Group Limited,10.0
+21,2014,1,Gionee Communication Equipment Co. Ltd.,
+21,2014,1,Google LLC,0.0
+21,2014,1,HMD (Nokia),0.0
+21,2014,1,HTC Corporation,
+21,2014,1,"Honor Device Co., Ltd.",
+21,2014,1,"Huawei Technologies Co., Ltd.",13.7
+21,2014,1,Infinix Mobile,
+21,2014,1,Itel Mobile,
+21,2014,1,LG Electronics,12.3
+21,2014,1,Lenovo - Motorola,19.6
+21,2014,1,Lenovo Group Ltd.,12.9
+21,2014,1,"Meizu Technology Co., Ltd.",
+21,2014,1,Micromax,
+21,2014,1,Microsoft Corporation,
+21,2014,1,Motorola Mobility,
+21,2014,1,Nokia Corporation,
+21,2014,1,"Oppo Mobile Telecommunications Corp., Ltd.",
+21,2014,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+21,2014,1,"Samsung Electronics Co., Ltd.",88.9
+21,2014,1,Sony Corporation,8.8
+21,2014,1,TCLAlcatel,6.3
+21,2014,1,Tecno Mobile,
+21,2014,1,"Transsion Holdings Co., Ltd.",
+21,2014,1,"Vivo Communication Technology Co., Ltd.",
+21,2014,1,Xiaomi Inc.,11.0
+21,2014,1,ZTE Corporation,9.5
+21,2014,1,total,284.6
+22,2014,2,Apple Inc.,35.2
+22,2014,2,BlackBerry Limited,
+22,2014,2,Coolpad Group Limited,9.6
+22,2014,2,Gionee Communication Equipment Co. Ltd.,
+22,2014,2,Google LLC,0.0
+22,2014,2,HMD (Nokia),0.0
+22,2014,2,HTC Corporation,6.9
+22,2014,2,"Honor Device Co., Ltd.",
+22,2014,2,"Huawei Technologies Co., Ltd.",20.1
+22,2014,2,Infinix Mobile,
+22,2014,2,Itel Mobile,
+22,2014,2,LG Electronics,14.5
+22,2014,2,Lenovo - Motorola,24.0
+22,2014,2,Lenovo Group Ltd.,15.8
+22,2014,2,"Meizu Technology Co., Ltd.",
+22,2014,2,Micromax,4.5
+22,2014,2,Microsoft Corporation,9.9
+22,2014,2,Motorola Mobility,8.1
+22,2014,2,Nokia Corporation,
+22,2014,2,"Oppo Mobile Telecommunications Corp., Ltd.",
+22,2014,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+22,2014,2,"Samsung Electronics Co., Ltd.",75.0
+22,2014,2,Sony Corporation,9.4
+22,2014,2,TCLAlcatel,8.6
+22,2014,2,Tecno Mobile,
+22,2014,2,"Transsion Holdings Co., Ltd.",
+22,2014,2,"Vivo Communication Technology Co., Ltd.",
+22,2014,2,Xiaomi Inc.,15.1
+22,2014,2,ZTE Corporation,9.6
+22,2014,2,total,302.0
+23,2014,3,Apple Inc.,39.3
+23,2014,3,BlackBerry Limited,
+23,2014,3,Coolpad Group Limited,10.0
+23,2014,3,Gionee Communication Equipment Co. Ltd.,
+23,2014,3,Google LLC,0.0
+23,2014,3,HMD (Nokia),0.0
+23,2014,3,HTC Corporation,
+23,2014,3,"Honor Device Co., Ltd.",
+23,2014,3,"Huawei Technologies Co., Ltd.",16.5
+23,2014,3,Infinix Mobile,
+23,2014,3,Itel Mobile,
+23,2014,3,LG Electronics,16.8
+23,2014,3,Lenovo - Motorola,25.5
+23,2014,3,Lenovo Group Ltd.,16.7
+23,2014,3,"Meizu Technology Co., Ltd.",
+23,2014,3,Micromax,
+23,2014,3,Microsoft Corporation,11.6
+23,2014,3,Motorola Mobility,8.8
+23,2014,3,Nokia Corporation,
+23,2014,3,"Oppo Mobile Telecommunications Corp., Ltd.",
+23,2014,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+23,2014,3,"Samsung Electronics Co., Ltd.",79.1
+23,2014,3,Sony Corporation,9.9
+23,2014,3,TCLAlcatel,10.9
+23,2014,3,Tecno Mobile,
+23,2014,3,"Transsion Holdings Co., Ltd.",
+23,2014,3,"Vivo Communication Technology Co., Ltd.",
+23,2014,3,Xiaomi Inc.,18.0
+23,2014,3,ZTE Corporation,10.4
+23,2014,3,total,331.3
+24,2014,4,Apple Inc.,74.5
+24,2014,4,BlackBerry Limited,
+24,2014,4,Coolpad Group Limited,9.9
+24,2014,4,Gionee Communication Equipment Co. Ltd.,
+24,2014,4,Google LLC,0.0
+24,2014,4,HMD (Nokia),0.0
+24,2014,4,HTC Corporation,
+24,2014,4,"Honor Device Co., Ltd.",
+24,2014,4,"Huawei Technologies Co., Ltd.",24.2
+24,2014,4,Infinix Mobile,
+24,2014,4,Itel Mobile,
+24,2014,4,LG Electronics,15.8
+24,2014,4,Lenovo - Motorola,25.3
+24,2014,4,Lenovo Group Ltd.,14.1
+24,2014,4,"Meizu Technology Co., Ltd.",
+24,2014,4,Micromax,
+24,2014,4,Microsoft Corporation,
+24,2014,4,Motorola Mobility,
+24,2014,4,Nokia Corporation,
+24,2014,4,"Oppo Mobile Telecommunications Corp., Ltd.",
+24,2014,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+24,2014,4,"Samsung Electronics Co., Ltd.",74.8
+24,2014,4,Sony Corporation,11.9
+24,2014,4,TCLAlcatel,14.9
+24,2014,4,Tecno Mobile,
+24,2014,4,"Transsion Holdings Co., Ltd.",
+24,2014,4,"Vivo Communication Technology Co., Ltd.",
+24,2014,4,Xiaomi Inc.,17.0
+24,2014,4,ZTE Corporation,9.0
+24,2014,4,total,379.0
+25,2015,1,Apple Inc.,61.2
+25,2015,1,BlackBerry Limited,
+25,2015,1,Coolpad Group Limited,9.0
+25,2015,1,Gionee Communication Equipment Co. Ltd.,4.4
+25,2015,1,Google LLC,0.0
+25,2015,1,HMD (Nokia),0.0
+25,2015,1,HTC Corporation,
+25,2015,1,"Honor Device Co., Ltd.",
+25,2015,1,"Huawei Technologies Co., Ltd.",17.5
+25,2015,1,Infinix Mobile,
+25,2015,1,Itel Mobile,
+25,2015,1,LG Electronics,15.4
+25,2015,1,Lenovo - Motorola,18.8
+25,2015,1,Lenovo Group Ltd.,
+25,2015,1,"Meizu Technology Co., Ltd.",
+25,2015,1,Micromax,4.3
+25,2015,1,Microsoft Corporation,
+25,2015,1,Motorola Mobility,
+25,2015,1,Nokia Corporation,
+25,2015,1,"Oppo Mobile Telecommunications Corp., Ltd.",8.7
+25,2015,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+25,2015,1,"Samsung Electronics Co., Ltd.",83.0
+25,2015,1,Sony Corporation,7.9
+25,2015,1,TCLAlcatel,9.5
+25,2015,1,Tecno Mobile,
+25,2015,1,"Transsion Holdings Co., Ltd.",
+25,2015,1,"Vivo Communication Technology Co., Ltd.",7.9
+25,2015,1,Xiaomi Inc.,14.9
+25,2015,1,ZTE Corporation,10.9
+25,2015,1,total,336.3
+26,2015,2,Apple Inc.,47.5
+26,2015,2,BlackBerry Limited,
+26,2015,2,Coolpad Group Limited,9.0
+26,2015,2,Gionee Communication Equipment Co. Ltd.,4.8
+26,2015,2,Google LLC,0.0
+26,2015,2,HMD (Nokia),0.0
+26,2015,2,HTC Corporation,
+26,2015,2,"Honor Device Co., Ltd.",
+26,2015,2,"Huawei Technologies Co., Ltd.",30.5
+26,2015,2,Infinix Mobile,
+26,2015,2,Itel Mobile,
+26,2015,2,LG Electronics,14.1
+26,2015,2,Lenovo - Motorola,16.2
+26,2015,2,Lenovo Group Ltd.,
+26,2015,2,"Meizu Technology Co., Ltd.",
+26,2015,2,Micromax,5.7
+26,2015,2,Microsoft Corporation,
+26,2015,2,Motorola Mobility,
+26,2015,2,Nokia Corporation,
+26,2015,2,"Oppo Mobile Telecommunications Corp., Ltd.",9.8
+26,2015,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+26,2015,2,"Samsung Electronics Co., Ltd.",72.7
+26,2015,2,Sony Corporation,7.2
+26,2015,2,TCLAlcatel,10.6
+26,2015,2,Tecno Mobile,
+26,2015,2,"Transsion Holdings Co., Ltd.",
+26,2015,2,"Vivo Communication Technology Co., Ltd.",9.6
+26,2015,2,Xiaomi Inc.,19.5
+26,2015,2,ZTE Corporation,12.1
+26,2015,2,total,338.5
+27,2015,3,Apple Inc.,48.0
+27,2015,3,BlackBerry Limited,
+27,2015,3,Coolpad Group Limited,
+27,2015,3,Gionee Communication Equipment Co. Ltd.,5.3
+27,2015,3,Google LLC,0.0
+27,2015,3,HMD (Nokia),0.0
+27,2015,3,HTC Corporation,
+27,2015,3,"Honor Device Co., Ltd.",
+27,2015,3,"Huawei Technologies Co., Ltd.",27.4
+27,2015,3,Infinix Mobile,
+27,2015,3,Itel Mobile,
+27,2015,3,LG Electronics,14.9
+27,2015,3,Lenovo - Motorola,18.8
+27,2015,3,Lenovo Group Ltd.,
+27,2015,3,"Meizu Technology Co., Ltd.",
+27,2015,3,Micromax,6.4
+27,2015,3,Microsoft Corporation,5.8
+27,2015,3,Motorola Mobility,
+27,2015,3,Nokia Corporation,
+27,2015,3,"Oppo Mobile Telecommunications Corp., Ltd.",11.9
+27,2015,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+27,2015,3,"Samsung Electronics Co., Ltd.",84.0
+27,2015,3,Sony Corporation,
+27,2015,3,TCLAlcatel,10.2
+27,2015,3,Tecno Mobile,
+27,2015,3,"Transsion Holdings Co., Ltd.",
+27,2015,3,"Vivo Communication Technology Co., Ltd.",11.3
+27,2015,3,Xiaomi Inc.,18.3
+27,2015,3,ZTE Corporation,15.9
+27,2015,3,total,346.5
+28,2015,4,Apple Inc.,74.8
+28,2015,4,BlackBerry Limited,
+28,2015,4,Coolpad Group Limited,
+28,2015,4,Gionee Communication Equipment Co. Ltd.,5.9
+28,2015,4,Google LLC,0.0
+28,2015,4,HMD (Nokia),0.0
+28,2015,4,HTC Corporation,
+28,2015,4,"Honor Device Co., Ltd.",
+28,2015,4,"Huawei Technologies Co., Ltd.",32.4
+28,2015,4,Infinix Mobile,
+28,2015,4,Itel Mobile,
+28,2015,4,LG Electronics,15.3
+28,2015,4,Lenovo - Motorola,20.2
+28,2015,4,Lenovo Group Ltd.,
+28,2015,4,"Meizu Technology Co., Ltd.",
+28,2015,4,Micromax,4.4
+28,2015,4,Microsoft Corporation,
+28,2015,4,Motorola Mobility,
+28,2015,4,Nokia Corporation,
+28,2015,4,"Oppo Mobile Telecommunications Corp., Ltd.",13.1
+28,2015,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+28,2015,4,"Samsung Electronics Co., Ltd.",81.8
+28,2015,4,Sony Corporation,
+28,2015,4,TCLAlcatel,12.1
+28,2015,4,Tecno Mobile,
+28,2015,4,"Transsion Holdings Co., Ltd.",
+28,2015,4,"Vivo Communication Technology Co., Ltd.",12.3
+28,2015,4,Xiaomi Inc.,19.2
+28,2015,4,ZTE Corporation,15.4
+28,2015,4,total,401.9
+29,2016,1,Apple Inc.,51.2
+29,2016,1,BlackBerry Limited,
+29,2016,1,Coolpad Group Limited,
+29,2016,1,Gionee Communication Equipment Co. Ltd.,5.6
+29,2016,1,Google LLC,
+29,2016,1,HMD (Nokia),
+29,2016,1,HTC Corporation,
+29,2016,1,"Honor Device Co., Ltd.",
+29,2016,1,"Huawei Technologies Co., Ltd.",28.5
+29,2016,1,Infinix Mobile,
+29,2016,1,Itel Mobile,
+29,2016,1,LG Electronics,13.5
+29,2016,1,Lenovo - Motorola,11.0
+29,2016,1,Lenovo Group Ltd.,
+29,2016,1,"Meizu Technology Co., Ltd.",
+29,2016,1,Micromax,4.7
+29,2016,1,Microsoft Corporation,
+29,2016,1,Motorola Mobility,
+29,2016,1,Nokia Corporation,
+29,2016,1,"Oppo Mobile Telecommunications Corp., Ltd.",16.7
+29,2016,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+29,2016,1,"Samsung Electronics Co., Ltd.",79.7
+29,2016,1,Sony Corporation,
+29,2016,1,TCLAlcatel,7.8
+29,2016,1,Tecno Mobile,
+29,2016,1,"Transsion Holdings Co., Ltd.",
+29,2016,1,"Vivo Communication Technology Co., Ltd.",14.2
+29,2016,1,Xiaomi Inc.,14.6
+29,2016,1,ZTE Corporation,12.4
+29,2016,1,total,336.6
+30,2016,2,Apple Inc.,40.3
+30,2016,2,BlackBerry Limited,
+30,2016,2,Coolpad Group Limited,
+30,2016,2,Gionee Communication Equipment Co. Ltd.,6.2
+30,2016,2,Google LLC,
+30,2016,2,HMD (Nokia),
+30,2016,2,HTC Corporation,
+30,2016,2,"Honor Device Co., Ltd.",
+30,2016,2,"Huawei Technologies Co., Ltd.",32.4
+30,2016,2,Infinix Mobile,
+30,2016,2,Itel Mobile,
+30,2016,2,LG Electronics,13.9
+30,2016,2,Lenovo - Motorola,11.1
+30,2016,2,Lenovo Group Ltd.,
+30,2016,2,"Meizu Technology Co., Ltd.",
+30,2016,2,Micromax,5.1
+30,2016,2,Microsoft Corporation,
+30,2016,2,Motorola Mobility,
+30,2016,2,Nokia Corporation,
+30,2016,2,"Oppo Mobile Telecommunications Corp., Ltd.",21.4
+30,2016,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+30,2016,2,"Samsung Electronics Co., Ltd.",77.2
+30,2016,2,Sony Corporation,
+30,2016,2,TCLAlcatel,7.4
+30,2016,2,Tecno Mobile,
+30,2016,2,"Transsion Holdings Co., Ltd.",
+30,2016,2,"Vivo Communication Technology Co., Ltd.",16.6
+30,2016,2,Xiaomi Inc.,15.0
+30,2016,2,ZTE Corporation,14.5
+30,2016,2,total,348.5
+31,2016,3,Apple Inc.,45.5
+31,2016,3,BlackBerry Limited,
+31,2016,3,Coolpad Group Limited,
+31,2016,3,Gionee Communication Equipment Co. Ltd.,
+31,2016,3,Google LLC,
+31,2016,3,HMD (Nokia),
+31,2016,3,HTC Corporation,
+31,2016,3,"Honor Device Co., Ltd.",
+31,2016,3,"Huawei Technologies Co., Ltd.",33.6
+31,2016,3,Infinix Mobile,
+31,2016,3,Itel Mobile,
+31,2016,3,LG Electronics,13.5
+31,2016,3,Lenovo - Motorola,
+31,2016,3,Lenovo Group Ltd.,
+31,2016,3,"Meizu Technology Co., Ltd.",
+31,2016,3,Micromax,
+31,2016,3,Microsoft Corporation,0.0
+31,2016,3,Motorola Mobility,
+31,2016,3,Nokia Corporation,
+31,2016,3,"Oppo Mobile Telecommunications Corp., Ltd.",25.4
+31,2016,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+31,2016,3,"Samsung Electronics Co., Ltd.",75.8
+31,2016,3,Sony Corporation,
+31,2016,3,TCLAlcatel,
+31,2016,3,Tecno Mobile,
+31,2016,3,"Transsion Holdings Co., Ltd.",
+31,2016,3,"Vivo Communication Technology Co., Ltd.",23.8
+31,2016,3,Xiaomi Inc.,15.0
+31,2016,3,ZTE Corporation,15.4
+31,2016,3,total,377.8
+32,2016,4,Apple Inc.,78.3
+32,2016,4,BlackBerry Limited,
+32,2016,4,Coolpad Group Limited,
+32,2016,4,Gionee Communication Equipment Co. Ltd.,
+32,2016,4,Google LLC,
+32,2016,4,HMD (Nokia),
+32,2016,4,HTC Corporation,
+32,2016,4,"Honor Device Co., Ltd.",
+32,2016,4,"Huawei Technologies Co., Ltd.",42.2
+32,2016,4,Infinix Mobile,
+32,2016,4,Itel Mobile,
+32,2016,4,LG Electronics,14.1
+32,2016,4,Lenovo - Motorola,14.2
+32,2016,4,Lenovo Group Ltd.,
+32,2016,4,"Meizu Technology Co., Ltd.",6.0
+32,2016,4,Micromax,
+32,2016,4,Microsoft Corporation,0.0
+32,2016,4,Motorola Mobility,
+32,2016,4,Nokia Corporation,
+32,2016,4,"Oppo Mobile Telecommunications Corp., Ltd.",28.1
+32,2016,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+32,2016,4,"Samsung Electronics Co., Ltd.",77.8
+32,2016,4,Sony Corporation,
+32,2016,4,TCLAlcatel,9.9
+32,2016,4,Tecno Mobile,
+32,2016,4,"Transsion Holdings Co., Ltd.",
+32,2016,4,"Vivo Communication Technology Co., Ltd.",24.2
+32,2016,4,Xiaomi Inc.,16.4
+32,2016,4,ZTE Corporation,16.4
+32,2016,4,total,434.6
+33,2017,1,Apple Inc.,50.8
+33,2017,1,BlackBerry Limited,
+33,2017,1,Coolpad Group Limited,
+33,2017,1,Gionee Communication Equipment Co. Ltd.,
+33,2017,1,Google LLC,
+33,2017,1,HMD (Nokia),0.1
+33,2017,1,HTC Corporation,
+33,2017,1,"Honor Device Co., Ltd.",
+33,2017,1,"Huawei Technologies Co., Ltd.",34.6
+33,2017,1,Infinix Mobile,
+33,2017,1,Itel Mobile,1.5
+33,2017,1,LG Electronics,14.8
+33,2017,1,Lenovo - Motorola,9.1
+33,2017,1,Lenovo Group Ltd.,
+33,2017,1,"Meizu Technology Co., Ltd.",
+33,2017,1,Micromax,
+33,2017,1,Microsoft Corporation,0.0
+33,2017,1,Motorola Mobility,
+33,2017,1,Nokia Corporation,
+33,2017,1,"Oppo Mobile Telecommunications Corp., Ltd.",26.7
+33,2017,1,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+33,2017,1,"Samsung Electronics Co., Ltd.",79.7
+33,2017,1,Sony Corporation,
+33,2017,1,TCLAlcatel,6.3
+33,2017,1,Tecno Mobile,
+33,2017,1,"Transsion Holdings Co., Ltd.",
+33,2017,1,"Vivo Communication Technology Co., Ltd.",22.6
+33,2017,1,Xiaomi Inc.,13.7
+33,2017,1,ZTE Corporation,13.3
+33,2017,1,total,357.8
+34,2017,2,Apple Inc.,41.0
+34,2017,2,BlackBerry Limited,
+34,2017,2,Coolpad Group Limited,
+34,2017,2,Gionee Communication Equipment Co. Ltd.,
+34,2017,2,Google LLC,
+34,2017,2,HMD (Nokia),1.4
+34,2017,2,HTC Corporation,
+34,2017,2,"Honor Device Co., Ltd.",
+34,2017,2,"Huawei Technologies Co., Ltd.",37.8
+34,2017,2,Infinix Mobile,
+34,2017,2,Itel Mobile,
+34,2017,2,LG Electronics,13.3
+34,2017,2,Lenovo - Motorola,8.9
+34,2017,2,Lenovo Group Ltd.,
+34,2017,2,"Meizu Technology Co., Ltd.",
+34,2017,2,Micromax,
+34,2017,2,Microsoft Corporation,0.0
+34,2017,2,Motorola Mobility,
+34,2017,2,Nokia Corporation,
+34,2017,2,"Oppo Mobile Telecommunications Corp., Ltd.",29.6
+34,2017,2,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+34,2017,2,"Samsung Electronics Co., Ltd.",79.8
+34,2017,2,Sony Corporation,
+34,2017,2,TCLAlcatel,5.1
+34,2017,2,Tecno Mobile,2.8
+34,2017,2,"Transsion Holdings Co., Ltd.",
+34,2017,2,"Vivo Communication Technology Co., Ltd.",24.1
+34,2017,2,Xiaomi Inc.,22.7
+34,2017,2,ZTE Corporation,12.2
+34,2017,2,total,351.0
+35,2017,3,Apple Inc.,46.7
+35,2017,3,BlackBerry Limited,
+35,2017,3,Coolpad Group Limited,1.4
+35,2017,3,Gionee Communication Equipment Co. Ltd.,
+35,2017,3,Google LLC,
+35,2017,3,HMD (Nokia),3.1
+35,2017,3,HTC Corporation,0.6
+35,2017,3,"Honor Device Co., Ltd.",
+35,2017,3,"Huawei Technologies Co., Ltd.",39.1
+35,2017,3,Infinix Mobile,
+35,2017,3,Itel Mobile,3.5
+35,2017,3,LG Electronics,13.8
+35,2017,3,Lenovo - Motorola,15.4
+35,2017,3,Lenovo Group Ltd.,
+35,2017,3,"Meizu Technology Co., Ltd.",3.6
+35,2017,3,Micromax,1.8
+35,2017,3,Microsoft Corporation,0.0
+35,2017,3,Motorola Mobility,
+35,2017,3,Nokia Corporation,
+35,2017,3,"Oppo Mobile Telecommunications Corp., Ltd.",31.5
+35,2017,3,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+35,2017,3,"Samsung Electronics Co., Ltd.",83.4
+35,2017,3,Sony Corporation,3.4
+35,2017,3,TCLAlcatel,4.7
+35,2017,3,Tecno Mobile,3.3
+35,2017,3,"Transsion Holdings Co., Ltd.",
+35,2017,3,"Vivo Communication Technology Co., Ltd.",27.0
+35,2017,3,Xiaomi Inc.,27.8
+35,2017,3,ZTE Corporation,9.8
+35,2017,3,total,377.7
+36,2017,4,Apple Inc.,77.3
+36,2017,4,BlackBerry Limited,
+36,2017,4,Coolpad Group Limited,
+36,2017,4,Gionee Communication Equipment Co. Ltd.,
+36,2017,4,Google LLC,
+36,2017,4,HMD (Nokia),4.4
+36,2017,4,HTC Corporation,
+36,2017,4,"Honor Device Co., Ltd.",
+36,2017,4,"Huawei Technologies Co., Ltd.",41.3
+36,2017,4,Infinix Mobile,
+36,2017,4,Itel Mobile,
+36,2017,4,LG Electronics,13.9
+36,2017,4,Lenovo - Motorola,11.9
+36,2017,4,Lenovo Group Ltd.,
+36,2017,4,"Meizu Technology Co., Ltd.",4.2
+36,2017,4,Micromax,
+36,2017,4,Microsoft Corporation,0.0
+36,2017,4,Motorola Mobility,
+36,2017,4,Nokia Corporation,
+36,2017,4,"Oppo Mobile Telecommunications Corp., Ltd.",29.0
+36,2017,4,"Realme Mobile Telecommunications Corp., Ltd.",0.0
+36,2017,4,"Samsung Electronics Co., Ltd.",74.4
+36,2017,4,Sony Corporation,
+36,2017,4,TCLAlcatel,4.8
+36,2017,4,Tecno Mobile,
+36,2017,4,"Transsion Holdings Co., Ltd.",
+36,2017,4,"Vivo Communication Technology Co., Ltd.",24.0
+36,2017,4,Xiaomi Inc.,28.9
+36,2017,4,ZTE Corporation,10.1
+36,2017,4,total,401.4
+37,2018,1,Apple Inc.,52.2
+37,2018,1,BlackBerry Limited,
+37,2018,1,Coolpad Group Limited,
+37,2018,1,Gionee Communication Equipment Co. Ltd.,
+37,2018,1,Google LLC,
+37,2018,1,HMD (Nokia),3.7
+37,2018,1,HTC Corporation,
+37,2018,1,"Honor Device Co., Ltd.",
+37,2018,1,"Huawei Technologies Co., Ltd.",39.3
+37,2018,1,Infinix Mobile,
+37,2018,1,Itel Mobile,4.6
+37,2018,1,LG Electronics,11.4
+37,2018,1,Lenovo - Motorola,8.7
+37,2018,1,Lenovo Group Ltd.,
+37,2018,1,"Meizu Technology Co., Ltd.",
+37,2018,1,Micromax,
+37,2018,1,Microsoft Corporation,0.0
+37,2018,1,Motorola Mobility,
+37,2018,1,Nokia Corporation,
+37,2018,1,"Oppo Mobile Telecommunications Corp., Ltd.",26.1
+37,2018,1,"Realme Mobile Telecommunications Corp., Ltd.",
+37,2018,1,"Samsung Electronics Co., Ltd.",78.8
+37,2018,1,Sony Corporation,
+37,2018,1,TCLAlcatel,3.8
+37,2018,1,Tecno Mobile,
+37,2018,1,"Transsion Holdings Co., Ltd.",
+37,2018,1,"Vivo Communication Technology Co., Ltd.",19.8
+37,2018,1,Xiaomi Inc.,28.5
+37,2018,1,ZTE Corporation,7.2
+37,2018,1,total,334.8
+38,2018,2,Apple Inc.,41.3
+38,2018,2,BlackBerry Limited,
+38,2018,2,Coolpad Group Limited,0.5
+38,2018,2,Gionee Communication Equipment Co. Ltd.,1.5
+38,2018,2,Google LLC,
+38,2018,2,HMD (Nokia),3.8
+38,2018,2,HTC Corporation,0.4
+38,2018,2,"Honor Device Co., Ltd.",
+38,2018,2,"Huawei Technologies Co., Ltd.",54.2
+38,2018,2,Infinix Mobile,1.7
+38,2018,2,Itel Mobile,3.4
+38,2018,2,LG Electronics,10.7
+38,2018,2,Lenovo - Motorola,10.2
+38,2018,2,Lenovo Group Ltd.,
+38,2018,2,"Meizu Technology Co., Ltd.",3.3
+38,2018,2,Micromax,1.8
+38,2018,2,Microsoft Corporation,0.0
+38,2018,2,Motorola Mobility,
+38,2018,2,Nokia Corporation,
+38,2018,2,"Oppo Mobile Telecommunications Corp., Ltd.",29.2
+38,2018,2,"Realme Mobile Telecommunications Corp., Ltd.",
+38,2018,2,"Samsung Electronics Co., Ltd.",71.3
+38,2018,2,Sony Corporation,2.0
+38,2018,2,TCLAlcatel,3.2
+38,2018,2,Tecno Mobile,4.2
+38,2018,2,"Transsion Holdings Co., Ltd.",
+38,2018,2,"Vivo Communication Technology Co., Ltd.",27.3
+38,2018,2,Xiaomi Inc.,32.7
+38,2018,2,ZTE Corporation,1.3
+38,2018,2,total,351.8
+39,2018,3,Apple Inc.,46.9
+39,2018,3,BlackBerry Limited,
+39,2018,3,Coolpad Group Limited,0.7
+39,2018,3,Gionee Communication Equipment Co. Ltd.,0.3
+39,2018,3,Google LLC,
+39,2018,3,HMD (Nokia),4.7
+39,2018,3,HTC Corporation,0.5
+39,2018,3,"Honor Device Co., Ltd.",
+39,2018,3,"Huawei Technologies Co., Ltd.",52.0
+39,2018,3,Infinix Mobile,2.0
+39,2018,3,Itel Mobile,3.3
+39,2018,3,LG Electronics,11.1
+39,2018,3,Lenovo - Motorola,11.3
+39,2018,3,Lenovo Group Ltd.,
+39,2018,3,"Meizu Technology Co., Ltd.",3.1
+39,2018,3,Micromax,2.2
+39,2018,3,Microsoft Corporation,0.0
+39,2018,3,Motorola Mobility,
+39,2018,3,Nokia Corporation,
+39,2018,3,"Oppo Mobile Telecommunications Corp., Ltd.",30.5
+39,2018,3,"Realme Mobile Telecommunications Corp., Ltd.",1.3
+39,2018,3,"Samsung Electronics Co., Ltd.",71.7
+39,2018,3,Sony Corporation,1.6
+39,2018,3,TCLAlcatel,5.8
+39,2018,3,Tecno Mobile,4.2
+39,2018,3,"Transsion Holdings Co., Ltd.",
+39,2018,3,"Vivo Communication Technology Co., Ltd.",29.7
+39,2018,3,Xiaomi Inc.,33.1
+39,2018,3,ZTE Corporation,1.7
+39,2018,3,total,353.1
+40,2018,4,Apple Inc.,66.2
+40,2018,4,BlackBerry Limited,
+40,2018,4,Coolpad Group Limited,
+40,2018,4,Gionee Communication Equipment Co. Ltd.,
+40,2018,4,Google LLC,
+40,2018,4,HMD (Nokia),4.6
+40,2018,4,HTC Corporation,
+40,2018,4,"Honor Device Co., Ltd.",
+40,2018,4,"Huawei Technologies Co., Ltd.",60.1
+40,2018,4,Infinix Mobile,
+40,2018,4,Itel Mobile,
+40,2018,4,LG Electronics,9.2
+40,2018,4,Lenovo - Motorola,10.1
+40,2018,4,Lenovo Group Ltd.,
+40,2018,4,"Meizu Technology Co., Ltd.",
+40,2018,4,Micromax,
+40,2018,4,Microsoft Corporation,0.0
+40,2018,4,Motorola Mobility,
+40,2018,4,Nokia Corporation,
+40,2018,4,"Oppo Mobile Telecommunications Corp., Ltd.",30.9
+40,2018,4,"Realme Mobile Telecommunications Corp., Ltd.",3.0
+40,2018,4,"Samsung Electronics Co., Ltd.",69.9
+40,2018,4,Sony Corporation,
+40,2018,4,TCLAlcatel,
+40,2018,4,Tecno Mobile,4.6
+40,2018,4,"Transsion Holdings Co., Ltd.",
+40,2018,4,"Vivo Communication Technology Co., Ltd.",26.5
+40,2018,4,Xiaomi Inc.,26.6
+40,2018,4,ZTE Corporation,
+40,2018,4,total,382.0
+41,2019,1,Apple Inc.,42.9
+41,2019,1,BlackBerry Limited,0.0
+41,2019,1,Coolpad Group Limited,
+41,2019,1,Gionee Communication Equipment Co. Ltd.,
+41,2019,1,Google LLC,
+41,2019,1,HMD (Nokia),3.1
+41,2019,1,HTC Corporation,
+41,2019,1,"Honor Device Co., Ltd.",
+41,2019,1,"Huawei Technologies Co., Ltd.",58.8
+41,2019,1,Infinix Mobile,
+41,2019,1,Itel Mobile,
+41,2019,1,LG Electronics,8.6
+41,2019,1,Lenovo - Motorola,8.5
+41,2019,1,Lenovo Group Ltd.,
+41,2019,1,"Meizu Technology Co., Ltd.",
+41,2019,1,Micromax,
+41,2019,1,Microsoft Corporation,0.0
+41,2019,1,Motorola Mobility,
+41,2019,1,Nokia Corporation,
+41,2019,1,"Oppo Mobile Telecommunications Corp., Ltd.",26.6
+41,2019,1,"Realme Mobile Telecommunications Corp., Ltd.",3.0
+41,2019,1,"Samsung Electronics Co., Ltd.",71.6
+41,2019,1,Sony Corporation,
+41,2019,1,TCLAlcatel,3.6
+41,2019,1,Tecno Mobile,3.8
+41,2019,1,"Transsion Holdings Co., Ltd.",
+41,2019,1,"Vivo Communication Technology Co., Ltd.",24.7
+41,2019,1,Xiaomi Inc.,27.6
+41,2019,1,ZTE Corporation,
+41,2019,1,total,311.6
+42,2019,2,Apple Inc.,36.2
+42,2019,2,BlackBerry Limited,0.0
+42,2019,2,Coolpad Group Limited,
+42,2019,2,Gionee Communication Equipment Co. Ltd.,
+42,2019,2,Google LLC,
+42,2019,2,HMD (Nokia),4.8
+42,2019,2,HTC Corporation,
+42,2019,2,"Honor Device Co., Ltd.",
+42,2019,2,"Huawei Technologies Co., Ltd.",58.0
+42,2019,2,Infinix Mobile,
+42,2019,2,Itel Mobile,
+42,2019,2,LG Electronics,8.1
+42,2019,2,Lenovo - Motorola,8.9
+42,2019,2,Lenovo Group Ltd.,
+42,2019,2,"Meizu Technology Co., Ltd.",
+42,2019,2,Micromax,
+42,2019,2,Microsoft Corporation,0.0
+42,2019,2,Motorola Mobility,
+42,2019,2,Nokia Corporation,
+42,2019,2,"Oppo Mobile Telecommunications Corp., Ltd.",28.5
+42,2019,2,"Realme Mobile Telecommunications Corp., Ltd.",5.0
+42,2019,2,"Samsung Electronics Co., Ltd.",75.7
+42,2019,2,Sony Corporation,
+42,2019,2,TCLAlcatel,3.8
+42,2019,2,Tecno Mobile,4.4
+42,2019,2,"Transsion Holdings Co., Ltd.",
+42,2019,2,"Vivo Communication Technology Co., Ltd.",27.7
+42,2019,2,Xiaomi Inc.,32.4
+42,2019,2,ZTE Corporation,
+42,2019,2,total,340.1
+43,2019,3,Apple Inc.,45.0
+43,2019,3,BlackBerry Limited,0.0
+43,2019,3,Coolpad Group Limited,
+43,2019,3,Gionee Communication Equipment Co. Ltd.,
+43,2019,3,Google LLC,
+43,2019,3,HMD (Nokia),3.8
+43,2019,3,HTC Corporation,
+43,2019,3,"Honor Device Co., Ltd.",
+43,2019,3,"Huawei Technologies Co., Ltd.",66.7
+43,2019,3,Infinix Mobile,
+43,2019,3,Itel Mobile,
+43,2019,3,LG Electronics,7.2
+43,2019,3,Lenovo - Motorola,10.0
+43,2019,3,Lenovo Group Ltd.,
+43,2019,3,"Meizu Technology Co., Ltd.",
+43,2019,3,Micromax,
+43,2019,3,Microsoft Corporation,0.0
+43,2019,3,Motorola Mobility,
+43,2019,3,Nokia Corporation,
+43,2019,3,"Oppo Mobile Telecommunications Corp., Ltd.",32.2
+43,2019,3,"Realme Mobile Telecommunications Corp., Ltd.",10.2
+43,2019,3,"Samsung Electronics Co., Ltd.",78.4
+43,2019,3,Sony Corporation,
+43,2019,3,TCLAlcatel,
+43,2019,3,Tecno Mobile,5.5
+43,2019,3,"Transsion Holdings Co., Ltd.",
+43,2019,3,"Vivo Communication Technology Co., Ltd.",30.2
+43,2019,3,Xiaomi Inc.,32.5
+43,2019,3,ZTE Corporation,
+43,2019,3,total,355.5
+44,2019,4,Apple Inc.,71.4
+44,2019,4,BlackBerry Limited,0.0
+44,2019,4,Coolpad Group Limited,
+44,2019,4,Gionee Communication Equipment Co. Ltd.,
+44,2019,4,Google LLC,
+44,2019,4,HMD (Nokia),2.8
+44,2019,4,HTC Corporation,
+44,2019,4,"Honor Device Co., Ltd.",
+44,2019,4,"Huawei Technologies Co., Ltd.",56.8
+44,2019,4,Infinix Mobile,
+44,2019,4,Itel Mobile,
+44,2019,4,LG Electronics,7.8
+44,2019,4,Lenovo - Motorola,10.5
+44,2019,4,Lenovo Group Ltd.,
+44,2019,4,"Meizu Technology Co., Ltd.",
+44,2019,4,Micromax,
+44,2019,4,Microsoft Corporation,0.0
+44,2019,4,Motorola Mobility,
+44,2019,4,Nokia Corporation,
+44,2019,4,"Oppo Mobile Telecommunications Corp., Ltd.",30.6
+44,2019,4,"Realme Mobile Telecommunications Corp., Ltd.",7.6
+44,2019,4,"Samsung Electronics Co., Ltd.",69.7
+44,2019,4,Sony Corporation,
+44,2019,4,TCLAlcatel,
+44,2019,4,Tecno Mobile,5.4
+44,2019,4,"Transsion Holdings Co., Ltd.",
+44,2019,4,"Vivo Communication Technology Co., Ltd.",29.9
+44,2019,4,Xiaomi Inc.,32.7
+44,2019,4,ZTE Corporation,
+44,2019,4,total,369.3
+45,2020,1,Apple Inc.,38.1
+45,2020,1,BlackBerry Limited,0.0
+45,2020,1,Coolpad Group Limited,
+45,2020,1,Gionee Communication Equipment Co. Ltd.,
+45,2020,1,Google LLC,
+45,2020,1,HMD (Nokia),1.7
+45,2020,1,HTC Corporation,
+45,2020,1,"Honor Device Co., Ltd.",
+45,2020,1,"Huawei Technologies Co., Ltd.",49.0
+45,2020,1,Infinix Mobile,
+45,2020,1,Itel Mobile,
+45,2020,1,LG Electronics,5.2
+45,2020,1,Lenovo - Motorola,5.8
+45,2020,1,Lenovo Group Ltd.,
+45,2020,1,"Meizu Technology Co., Ltd.",
+45,2020,1,Micromax,
+45,2020,1,Microsoft Corporation,0.0
+45,2020,1,Motorola Mobility,
+45,2020,1,Nokia Corporation,
+45,2020,1,"Oppo Mobile Telecommunications Corp., Ltd.",22.3
+45,2020,1,"Realme Mobile Telecommunications Corp., Ltd.",6.6
+45,2020,1,"Samsung Electronics Co., Ltd.",59.0
+45,2020,1,Sony Corporation,
+45,2020,1,TCLAlcatel,
+45,2020,1,Tecno Mobile,4.1
+45,2020,1,"Transsion Holdings Co., Ltd.",
+45,2020,1,"Vivo Communication Technology Co., Ltd.",21.8
+45,2020,1,Xiaomi Inc.,29.3
+45,2020,1,ZTE Corporation,
+45,2020,1,total,282.0
+46,2020,2,Apple Inc.,37.8
+46,2020,2,BlackBerry Limited,0.0
+46,2020,2,Coolpad Group Limited,
+46,2020,2,Gionee Communication Equipment Co. Ltd.,
+46,2020,2,Google LLC,
+46,2020,2,HMD (Nokia),1.4
+46,2020,2,HTC Corporation,
+46,2020,2,"Honor Device Co., Ltd.",
+46,2020,2,"Huawei Technologies Co., Ltd.",54.9
+46,2020,2,Infinix Mobile,
+46,2020,2,Itel Mobile,
+46,2020,2,LG Electronics,5.2
+46,2020,2,Lenovo - Motorola,7.5
+46,2020,2,Lenovo Group Ltd.,
+46,2020,2,"Meizu Technology Co., Ltd.",
+46,2020,2,Micromax,
+46,2020,2,Microsoft Corporation,0.0
+46,2020,2,Motorola Mobility,
+46,2020,2,Nokia Corporation,
+46,2020,2,"Oppo Mobile Telecommunications Corp., Ltd.",24.0
+46,2020,2,"Realme Mobile Telecommunications Corp., Ltd.",5.5
+46,2020,2,"Samsung Electronics Co., Ltd.",54.0
+46,2020,2,Sony Corporation,
+46,2020,2,TCLAlcatel,
+46,2020,2,Tecno Mobile,4.1
+46,2020,2,"Transsion Holdings Co., Ltd.",
+46,2020,2,"Vivo Communication Technology Co., Ltd.",23.3
+46,2020,2,Xiaomi Inc.,27.9
+46,2020,2,ZTE Corporation,
+46,2020,2,total,281.5
+47,2020,3,Apple Inc.,41.3
+47,2020,3,BlackBerry Limited,0.0
+47,2020,3,Coolpad Group Limited,
+47,2020,3,Gionee Communication Equipment Co. Ltd.,
+47,2020,3,Google LLC,
+47,2020,3,HMD (Nokia),2.1
+47,2020,3,HTC Corporation,
+47,2020,3,"Honor Device Co., Ltd.",
+47,2020,3,"Huawei Technologies Co., Ltd.",51.8
+47,2020,3,Infinix Mobile,
+47,2020,3,Itel Mobile,
+47,2020,3,LG Electronics,6.5
+47,2020,3,Lenovo - Motorola,10.2
+47,2020,3,Lenovo Group Ltd.,
+47,2020,3,"Meizu Technology Co., Ltd.",
+47,2020,3,Micromax,
+47,2020,3,Microsoft Corporation,0.0
+47,2020,3,Motorola Mobility,
+47,2020,3,Nokia Corporation,
+47,2020,3,"Oppo Mobile Telecommunications Corp., Ltd.",30.4
+47,2020,3,"Realme Mobile Telecommunications Corp., Ltd.",15.0
+47,2020,3,"Samsung Electronics Co., Ltd.",80.5
+47,2020,3,Sony Corporation,
+47,2020,3,TCLAlcatel,
+47,2020,3,Tecno Mobile,6.0
+47,2020,3,"Transsion Holdings Co., Ltd.",
+47,2020,3,"Vivo Communication Technology Co., Ltd.",31.6
+47,2020,3,Xiaomi Inc.,45.7
+47,2020,3,ZTE Corporation,
+47,2020,3,total,350.8
+48,2020,4,Apple Inc.,84.6
+48,2020,4,BlackBerry Limited,0.0
+48,2020,4,Coolpad Group Limited,
+48,2020,4,Gionee Communication Equipment Co. Ltd.,
+48,2020,4,Google LLC,
+48,2020,4,HMD (Nokia),2.8
+48,2020,4,HTC Corporation,
+48,2020,4,"Honor Device Co., Ltd.",0.0
+48,2020,4,"Huawei Technologies Co., Ltd.",32.7
+48,2020,4,Infinix Mobile,
+48,2020,4,Itel Mobile,8.2
+48,2020,4,LG Electronics,8.4
+48,2020,4,Lenovo - Motorola,9.8
+48,2020,4,Lenovo Group Ltd.,
+48,2020,4,"Meizu Technology Co., Ltd.",
+48,2020,4,Micromax,
+48,2020,4,Microsoft Corporation,0.0
+48,2020,4,Motorola Mobility,
+48,2020,4,Nokia Corporation,
+48,2020,4,"Oppo Mobile Telecommunications Corp., Ltd.",34.1
+48,2020,4,"Realme Mobile Telecommunications Corp., Ltd.",14.3
+48,2020,4,"Samsung Electronics Co., Ltd.",62.9
+48,2020,4,Sony Corporation,
+48,2020,4,TCLAlcatel,
+48,2020,4,Tecno Mobile,7.7
+48,2020,4,"Transsion Holdings Co., Ltd.",
+48,2020,4,"Vivo Communication Technology Co., Ltd.",31.9
+48,2020,4,Xiaomi Inc.,43.4
+48,2020,4,ZTE Corporation,
+48,2020,4,total,378.0
+49,2021,1,Apple Inc.,56.1
+49,2021,1,BlackBerry Limited,0.0
+49,2021,1,Coolpad Group Limited,
+49,2021,1,Gionee Communication Equipment Co. Ltd.,
+49,2021,1,Google LLC,
+49,2021,1,HMD (Nokia),2.0
+49,2021,1,HTC Corporation,
+49,2021,1,"Honor Device Co., Ltd.",
+49,2021,1,"Huawei Technologies Co., Ltd.",16.8
+49,2021,1,Infinix Mobile,
+49,2021,1,Itel Mobile,
+49,2021,1,LG Electronics,6.8
+49,2021,1,Lenovo - Motorola,12.6
+49,2021,1,Lenovo Group Ltd.,
+49,2021,1,"Meizu Technology Co., Ltd.",
+49,2021,1,Micromax,
+49,2021,1,Microsoft Corporation,0.0
+49,2021,1,Motorola Mobility,
+49,2021,1,Nokia Corporation,
+49,2021,1,"Oppo Mobile Telecommunications Corp., Ltd.",37.7
+49,2021,1,"Realme Mobile Telecommunications Corp., Ltd.",11.4
+49,2021,1,"Samsung Electronics Co., Ltd.",76.1
+49,2021,1,Sony Corporation,
+49,2021,1,TCLAlcatel,
+49,2021,1,Tecno Mobile,8.2
+49,2021,1,"Transsion Holdings Co., Ltd.",
+49,2021,1,"Vivo Communication Technology Co., Ltd.",36.4
+49,2021,1,Xiaomi Inc.,48.8
+49,2021,1,ZTE Corporation,
+49,2021,1,total,344.3
+50,2021,2,Apple Inc.,45.6
+50,2021,2,BlackBerry Limited,0.0
+50,2021,2,Coolpad Group Limited,
+50,2021,2,Gionee Communication Equipment Co. Ltd.,
+50,2021,2,Google LLC,
+50,2021,2,HMD (Nokia),2.7
+50,2021,2,HTC Corporation,
+50,2021,2,"Honor Device Co., Ltd.",6.7
+50,2021,2,"Huawei Technologies Co., Ltd.",9.8
+50,2021,2,Infinix Mobile,
+50,2021,2,Itel Mobile,
+50,2021,2,LG Electronics,
+50,2021,2,Lenovo - Motorola,10.6
+50,2021,2,Lenovo Group Ltd.,
+50,2021,2,"Meizu Technology Co., Ltd.",
+50,2021,2,Micromax,
+50,2021,2,Microsoft Corporation,0.0
+50,2021,2,Motorola Mobility,
+50,2021,2,Nokia Corporation,
+50,2021,2,"Oppo Mobile Telecommunications Corp., Ltd.",32.6
+50,2021,2,"Realme Mobile Telecommunications Corp., Ltd.",14.4
+50,2021,2,"Samsung Electronics Co., Ltd.",57.7
+50,2021,2,Sony Corporation,
+50,2021,2,TCLAlcatel,
+50,2021,2,Tecno Mobile,7.1
+50,2021,2,"Transsion Holdings Co., Ltd.",
+50,2021,2,"Vivo Communication Technology Co., Ltd.",31.5
+50,2021,2,Xiaomi Inc.,51.7
+50,2021,2,ZTE Corporation,
+50,2021,2,total,310.9
+51,2021,3,Apple Inc.,49.9
+51,2021,3,BlackBerry Limited,0.0
+51,2021,3,Coolpad Group Limited,
+51,2021,3,Gionee Communication Equipment Co. Ltd.,
+51,2021,3,Google LLC,
+51,2021,3,HMD (Nokia),3.0
+51,2021,3,HTC Corporation,
+51,2021,3,"Honor Device Co., Ltd.",14.5
+51,2021,3,"Huawei Technologies Co., Ltd.",5.8
+51,2021,3,Infinix Mobile,
+51,2021,3,Itel Mobile,5.8
+51,2021,3,LG Electronics,
+51,2021,3,Lenovo - Motorola,12.3
+51,2021,3,Lenovo Group Ltd.,
+51,2021,3,"Meizu Technology Co., Ltd.",
+51,2021,3,Micromax,
+51,2021,3,Microsoft Corporation,0.0
+51,2021,3,Motorola Mobility,
+51,2021,3,Nokia Corporation,
+51,2021,3,"Oppo Mobile Telecommunications Corp., Ltd.",34.9
+51,2021,3,"Realme Mobile Telecommunications Corp., Ltd.",15.4
+51,2021,3,"Samsung Electronics Co., Ltd.",69.3
+51,2021,3,Sony Corporation,
+51,2021,3,TCLAlcatel,
+51,2021,3,Tecno Mobile,8.9
+51,2021,3,"Transsion Holdings Co., Ltd.",19.3
+51,2021,3,"Vivo Communication Technology Co., Ltd.",33.5
+51,2021,3,Xiaomi Inc.,44.7
+51,2021,3,ZTE Corporation,
+51,2021,3,total,328.6
+52,2021,4,Apple Inc.,83.8
+52,2021,4,BlackBerry Limited,0.0
+52,2021,4,Coolpad Group Limited,
+52,2021,4,Gionee Communication Equipment Co. Ltd.,
+52,2021,4,Google LLC,
+52,2021,4,HMD (Nokia),3.2
+52,2021,4,HTC Corporation,
+52,2021,4,"Honor Device Co., Ltd.",15.0
+52,2021,4,"Huawei Technologies Co., Ltd.",5.0
+52,2021,4,Infinix Mobile,
+52,2021,4,Itel Mobile,5.3
+52,2021,4,LG Electronics,0.0
+52,2021,4,Lenovo - Motorola,12.5
+52,2021,4,Lenovo Group Ltd.,
+52,2021,4,"Meizu Technology Co., Ltd.",
+52,2021,4,Micromax,
+52,2021,4,Microsoft Corporation,0.0
+52,2021,4,Motorola Mobility,
+52,2021,4,Nokia Corporation,
+52,2021,4,"Oppo Mobile Telecommunications Corp., Ltd.",32.8
+52,2021,4,"Realme Mobile Telecommunications Corp., Ltd.",16.5
+52,2021,4,"Samsung Electronics Co., Ltd.",69.0
+52,2021,4,Sony Corporation,
+52,2021,4,TCLAlcatel,
+52,2021,4,Tecno Mobile,7.4
+52,2021,4,"Transsion Holdings Co., Ltd.",18.0
+52,2021,4,"Vivo Communication Technology Co., Ltd.",29.6
+52,2021,4,Xiaomi Inc.,45.0
+52,2021,4,ZTE Corporation,
+52,2021,4,total,363.0
+53,2022,1,Apple Inc.,57.5
+53,2022,1,BlackBerry Limited,0.0
+53,2022,1,Coolpad Group Limited,
+53,2022,1,Gionee Communication Equipment Co. Ltd.,
+53,2022,1,Google LLC,
+53,2022,1,HMD (Nokia),3.0
+53,2022,1,HTC Corporation,
+53,2022,1,"Honor Device Co., Ltd.",15.0
+53,2022,1,"Huawei Technologies Co., Ltd.",6.0
+53,2022,1,Infinix Mobile,
+53,2022,1,Itel Mobile,
+53,2022,1,LG Electronics,0.0
+53,2022,1,Lenovo - Motorola,12.0
+53,2022,1,Lenovo Group Ltd.,
+53,2022,1,"Meizu Technology Co., Ltd.",
+53,2022,1,Micromax,
+53,2022,1,Microsoft Corporation,0.0
+53,2022,1,Motorola Mobility,
+53,2022,1,Nokia Corporation,
+53,2022,1,"Oppo Mobile Telecommunications Corp., Ltd.",30.0
+53,2022,1,"Realme Mobile Telecommunications Corp., Ltd.",15.0
+53,2022,1,"Samsung Electronics Co., Ltd.",74.5
+53,2022,1,Sony Corporation,
+53,2022,1,TCLAlcatel,
+53,2022,1,Tecno Mobile,
+53,2022,1,"Transsion Holdings Co., Ltd.",15.0
+53,2022,1,"Vivo Communication Technology Co., Ltd.",25.2
+53,2022,1,Xiaomi Inc.,39.5
+53,2022,1,ZTE Corporation,
+53,2022,1,total,318.1
+54,2022,2,Apple Inc.,48.1
+54,2022,2,BlackBerry Limited,0.0
+54,2022,2,Coolpad Group Limited,
+54,2022,2,Gionee Communication Equipment Co. Ltd.,
+54,2022,2,Google LLC,
+54,2022,2,HMD (Nokia),
+54,2022,2,HTC Corporation,
+54,2022,2,"Honor Device Co., Ltd.",15.1
+54,2022,2,"Huawei Technologies Co., Ltd.",6.4
+54,2022,2,Infinix Mobile,
+54,2022,2,Itel Mobile,
+54,2022,2,LG Electronics,0.0
+54,2022,2,Lenovo - Motorola,12.7
+54,2022,2,Lenovo Group Ltd.,
+54,2022,2,"Meizu Technology Co., Ltd.",
+54,2022,2,Micromax,
+54,2022,2,Microsoft Corporation,0.0
+54,2022,2,Motorola Mobility,
+54,2022,2,Nokia Corporation,
+54,2022,2,"Oppo Mobile Telecommunications Corp., Ltd.",27.6
+54,2022,2,"Realme Mobile Telecommunications Corp., Ltd.",13.4
+54,2022,2,"Samsung Electronics Co., Ltd.",62.3
+54,2022,2,Sony Corporation,
+54,2022,2,TCLAlcatel,
+54,2022,2,Tecno Mobile,
+54,2022,2,"Transsion Holdings Co., Ltd.",18.3
+54,2022,2,"Vivo Communication Technology Co., Ltd.",25.0
+54,2022,2,Xiaomi Inc.,39.5
+54,2022,2,ZTE Corporation,
+54,2022,2,total,290.0
+55,2022,3,Apple Inc.,50.5
+55,2022,3,BlackBerry Limited,0.0
+55,2022,3,Coolpad Group Limited,
+55,2022,3,Gionee Communication Equipment Co. Ltd.,
+55,2022,3,Google LLC,
+55,2022,3,HMD (Nokia),
+55,2022,3,HTC Corporation,
+55,2022,3,"Honor Device Co., Ltd.",14.2
+55,2022,3,"Huawei Technologies Co., Ltd.",8.6
+55,2022,3,Infinix Mobile,
+55,2022,3,Itel Mobile,
+55,2022,3,LG Electronics,0.0
+55,2022,3,Lenovo - Motorola,11.4
+55,2022,3,Lenovo Group Ltd.,
+55,2022,3,"Meizu Technology Co., Ltd.",
+55,2022,3,Micromax,
+55,2022,3,Microsoft Corporation,0.0
+55,2022,3,Motorola Mobility,
+55,2022,3,Nokia Corporation,
+55,2022,3,"Oppo Mobile Telecommunications Corp., Ltd.",29.2
+55,2022,3,"Realme Mobile Telecommunications Corp., Ltd.",13.6
+55,2022,3,"Samsung Electronics Co., Ltd.",64.6
+55,2022,3,Sony Corporation,
+55,2022,3,TCLAlcatel,
+55,2022,3,Tecno Mobile,7.4
+55,2022,3,"Transsion Holdings Co., Ltd.",18.5
+55,2022,3,"Vivo Communication Technology Co., Ltd.",26.0
+55,2022,3,Xiaomi Inc.,40.5
+55,2022,3,ZTE Corporation,
+55,2022,3,total,301.5
+56,2022,4,Apple Inc.,71.8
+56,2022,4,BlackBerry Limited,0.0
+56,2022,4,Coolpad Group Limited,
+56,2022,4,Gionee Communication Equipment Co. Ltd.,
+56,2022,4,Google LLC,
+56,2022,4,HMD (Nokia),
+56,2022,4,HTC Corporation,
+56,2022,4,"Honor Device Co., Ltd.",14.0
+56,2022,4,"Huawei Technologies Co., Ltd.",8.0
+56,2022,4,Infinix Mobile,
+56,2022,4,Itel Mobile,
+56,2022,4,LG Electronics,0.0
+56,2022,4,Lenovo - Motorola,11.0
+56,2022,4,Lenovo Group Ltd.,
+56,2022,4,"Meizu Technology Co., Ltd.",
+56,2022,4,Micromax,
+56,2022,4,Microsoft Corporation,0.0
+56,2022,4,Motorola Mobility,
+56,2022,4,Nokia Corporation,
+56,2022,4,"Oppo Mobile Telecommunications Corp., Ltd.",27.5
+56,2022,4,"Realme Mobile Telecommunications Corp., Ltd.",11.0
+56,2022,4,"Samsung Electronics Co., Ltd.",58.2
+56,2022,4,Sony Corporation,
+56,2022,4,TCLAlcatel,
+56,2022,4,Tecno Mobile,
+56,2022,4,"Transsion Holdings Co., Ltd.",16.9
+56,2022,4,"Vivo Communication Technology Co., Ltd.",23.6
+56,2022,4,Xiaomi Inc.,33.1
+56,2022,4,ZTE Corporation,
+56,2022,4,total,300.8
+57,2023,1,Apple Inc.,56.5
+57,2023,1,BlackBerry Limited,0.0
+57,2023,1,Coolpad Group Limited,
+57,2023,1,Gionee Communication Equipment Co. Ltd.,0.0
+57,2023,1,Google LLC,7.8
+57,2023,1,HMD (Nokia),
+57,2023,1,HTC Corporation,
+57,2023,1,"Honor Device Co., Ltd.",11.2
+57,2023,1,"Huawei Technologies Co., Ltd.",6.4
+57,2023,1,Infinix Mobile,
+57,2023,1,Itel Mobile,
+57,2023,1,LG Electronics,0.0
+57,2023,1,Lenovo - Motorola,10.5
+57,2023,1,Lenovo Group Ltd.,
+57,2023,1,"Meizu Technology Co., Ltd.",
+57,2023,1,Micromax,
+57,2023,1,Microsoft Corporation,0.0
+57,2023,1,Motorola Mobility,
+57,2023,1,Nokia Corporation,
+57,2023,1,"Oppo Mobile Telecommunications Corp., Ltd.",27.4
+57,2023,1,"Realme Mobile Telecommunications Corp., Ltd.",8.2
+57,2023,1,"Samsung Electronics Co., Ltd.",60.5
+57,2023,1,Sony Corporation,
+57,2023,1,TCLAlcatel,
+57,2023,1,Tecno Mobile,
+57,2023,1,"Transsion Holdings Co., Ltd.",14.2
+57,2023,1,"Vivo Communication Technology Co., Ltd.",20.9
+57,2023,1,Xiaomi Inc.,30.5
+57,2023,1,ZTE Corporation,
+57,2023,1,total,271.8
+58,2023,2,Apple Inc.,42.6
+58,2023,2,BlackBerry Limited,0.0
+58,2023,2,Coolpad Group Limited,
+58,2023,2,Gionee Communication Equipment Co. Ltd.,0.0
+58,2023,2,Google LLC,
+58,2023,2,HMD (Nokia),
+58,2023,2,HTC Corporation,
+58,2023,2,"Honor Device Co., Ltd.",14.1
+58,2023,2,"Huawei Technologies Co., Ltd.",7.4
+58,2023,2,Infinix Mobile,
+58,2023,2,Itel Mobile,
+58,2023,2,LG Electronics,0.0
+58,2023,2,Lenovo - Motorola,10.4
+58,2023,2,Lenovo Group Ltd.,
+58,2023,2,"Meizu Technology Co., Ltd.",
+58,2023,2,Micromax,
+58,2023,2,Microsoft Corporation,0.0
+58,2023,2,Motorola Mobility,
+58,2023,2,Nokia Corporation,
+58,2023,2,"Oppo Mobile Telecommunications Corp., Ltd.",26.1
+58,2023,2,"Realme Mobile Telecommunications Corp., Ltd.",10.1
+58,2023,2,"Samsung Electronics Co., Ltd.",53.4
+58,2023,2,Sony Corporation,
+58,2023,2,TCLAlcatel,
+58,2023,2,Tecno Mobile,
+58,2023,2,"Transsion Holdings Co., Ltd.",25.2
+58,2023,2,"Vivo Communication Technology Co., Ltd.",22.6
+58,2023,2,Xiaomi Inc.,33.2
+58,2023,2,ZTE Corporation,
+58,2023,2,total,266.4
+59,2023,3,Apple Inc.,49.8
+59,2023,3,BlackBerry Limited,0.0
+59,2023,3,Coolpad Group Limited,
+59,2023,3,Gionee Communication Equipment Co. Ltd.,0.0
+59,2023,3,Google LLC,10.0
+59,2023,3,HMD (Nokia),
+59,2023,3,HTC Corporation,
+59,2023,3,"Honor Device Co., Ltd.",15.8
+59,2023,3,"Huawei Technologies Co., Ltd.",10.7
+59,2023,3,Infinix Mobile,
+59,2023,3,Itel Mobile,
+59,2023,3,LG Electronics,0.0
+59,2023,3,Lenovo - Motorola,11.2
+59,2023,3,Lenovo Group Ltd.,
+59,2023,3,"Meizu Technology Co., Ltd.",
+59,2023,3,Micromax,
+59,2023,3,Microsoft Corporation,0.0
+59,2023,3,Motorola Mobility,
+59,2023,3,Nokia Corporation,
+59,2023,3,"Oppo Mobile Telecommunications Corp., Ltd.",31.1
+59,2023,3,"Realme Mobile Telecommunications Corp., Ltd.",10.6
+59,2023,3,"Samsung Electronics Co., Ltd.",59.7
+59,2023,3,Sony Corporation,
+59,2023,3,TCLAlcatel,
+59,2023,3,Tecno Mobile,12.0
+59,2023,3,"Transsion Holdings Co., Ltd.",26.4
+59,2023,3,"Vivo Communication Technology Co., Ltd.",23.5
+59,2023,3,Xiaomi Inc.,42.2
+59,2023,3,ZTE Corporation,
+59,2023,3,total,302.0
+60,2023,4,Apple Inc.,79.2
+60,2023,4,BlackBerry Limited,0.0
+60,2023,4,Coolpad Group Limited,
+60,2023,4,Gionee Communication Equipment Co. Ltd.,0.0
+60,2023,4,Google LLC,3.0
+60,2023,4,HMD (Nokia),
+60,2023,4,HTC Corporation,
+60,2023,4,"Honor Device Co., Ltd.",16.0
+60,2023,4,"Huawei Technologies Co., Ltd.",12.3
+60,2023,4,Infinix Mobile,
+60,2023,4,Itel Mobile,
+60,2023,4,LG Electronics,0.0
+60,2023,4,Lenovo - Motorola,12.5
+60,2023,4,Lenovo Group Ltd.,
+60,2023,4,"Meizu Technology Co., Ltd.",
+60,2023,4,Micromax,
+60,2023,4,Microsoft Corporation,0.0
+60,2023,4,Motorola Mobility,
+60,2023,4,Nokia Corporation,
+60,2023,4,"Oppo Mobile Telecommunications Corp., Ltd.",32.2
+60,2023,4,"Realme Mobile Telecommunications Corp., Ltd.",12.1
+60,2023,4,"Samsung Electronics Co., Ltd.",53.1
+60,2023,4,Sony Corporation,
+60,2023,4,TCLAlcatel,
+60,2023,4,Tecno Mobile,
+60,2023,4,"Transsion Holdings Co., Ltd.",28.7
+60,2023,4,"Vivo Communication Technology Co., Ltd.",24.0
+60,2023,4,Xiaomi Inc.,40.9
+60,2023,4,ZTE Corporation,
+60,2023,4,total,323.6
+61,2024,1,Apple Inc.,50.1
+61,2024,1,BlackBerry Limited,0.0
+61,2024,1,Coolpad Group Limited,
+61,2024,1,Gionee Communication Equipment Co. Ltd.,0.0
+61,2024,1,Google LLC,2.15
+61,2024,1,HMD (Nokia),
+61,2024,1,HTC Corporation,
+61,2024,1,"Honor Device Co., Ltd.",
+61,2024,1,"Huawei Technologies Co., Ltd.",13.1
+61,2024,1,Infinix Mobile,
+61,2024,1,Itel Mobile,
+61,2024,1,LG Electronics,0.0
+61,2024,1,Lenovo - Motorola,13.0
+61,2024,1,Lenovo Group Ltd.,
+61,2024,1,"Meizu Technology Co., Ltd.",
+61,2024,1,Micromax,
+61,2024,1,Microsoft Corporation,0.0
+61,2024,1,Motorola Mobility,
+61,2024,1,Nokia Corporation,
+61,2024,1,"Oppo Mobile Telecommunications Corp., Ltd.",25.2
+61,2024,1,"Realme Mobile Telecommunications Corp., Ltd.",
+61,2024,1,"Samsung Electronics Co., Ltd.",60.1
+61,2024,1,Sony Corporation,
+61,2024,1,TCLAlcatel,
+61,2024,1,Tecno Mobile,
+61,2024,1,"Transsion Holdings Co., Ltd.",28.5
+61,2024,1,"Vivo Communication Technology Co., Ltd.",
+61,2024,1,Xiaomi Inc.,40.8
+61,2024,1,ZTE Corporation,
+61,2024,1,total,289.4
+62,2024,2,Apple Inc.,45.4
+62,2024,2,BlackBerry Limited,0.0
+62,2024,2,Coolpad Group Limited,
+62,2024,2,Gionee Communication Equipment Co. Ltd.,0.0
+62,2024,2,Google LLC,2.3
+62,2024,2,HMD (Nokia),
+62,2024,2,HTC Corporation,
+62,2024,2,"Honor Device Co., Ltd.",15.5
+62,2024,2,"Huawei Technologies Co., Ltd.",11.65
+62,2024,2,Infinix Mobile,
+62,2024,2,Itel Mobile,
+62,2024,2,LG Electronics,0.0
+62,2024,2,Lenovo - Motorola,13.5
+62,2024,2,Lenovo Group Ltd.,
+62,2024,2,"Meizu Technology Co., Ltd.",
+62,2024,2,Micromax,
+62,2024,2,Microsoft Corporation,0.0
+62,2024,2,Motorola Mobility,
+62,2024,2,Nokia Corporation,
+62,2024,2,"Oppo Mobile Telecommunications Corp., Ltd.",25.5
+62,2024,2,"Realme Mobile Telecommunications Corp., Ltd.",12.3
+62,2024,2,"Samsung Electronics Co., Ltd.",53.8
+62,2024,2,Sony Corporation,
+62,2024,2,TCLAlcatel,
+62,2024,2,Tecno Mobile,
+62,2024,2,"Transsion Holdings Co., Ltd.",25.5
+62,2024,2,"Vivo Communication Technology Co., Ltd.",25.95
+62,2024,2,Xiaomi Inc.,42.3
+62,2024,2,ZTE Corporation,
+62,2024,2,total,
+63,2024,3,Apple Inc.,56.0
+63,2024,3,BlackBerry Limited,0.0
+63,2024,3,Coolpad Group Limited,
+63,2024,3,Gionee Communication Equipment Co. Ltd.,0.0
+63,2024,3,Google LLC,
+63,2024,3,HMD (Nokia),
+63,2024,3,HTC Corporation,
+63,2024,3,"Honor Device Co., Ltd.",15.0
+63,2024,3,"Huawei Technologies Co., Ltd.",10.8
+63,2024,3,Infinix Mobile,
+63,2024,3,Itel Mobile,
+63,2024,3,LG Electronics,0.0
+63,2024,3,Lenovo - Motorola,15.4
+63,2024,3,Lenovo Group Ltd.,
+63,2024,3,"Meizu Technology Co., Ltd.",
+63,2024,3,Micromax,
+63,2024,3,Microsoft Corporation,0.0
+63,2024,3,Motorola Mobility,
+63,2024,3,Nokia Corporation,
+63,2024,3,"Oppo Mobile Telecommunications Corp., Ltd.",28.8
+63,2024,3,"Realme Mobile Telecommunications Corp., Ltd.",14.3
+63,2024,3,"Samsung Electronics Co., Ltd.",57.8
+63,2024,3,Sony Corporation,
+63,2024,3,TCLAlcatel,
+63,2024,3,Tecno Mobile,
+63,2024,3,"Transsion Holdings Co., Ltd.",25.5
+63,2024,3,"Vivo Communication Technology Co., Ltd.",27.0
+63,2024,3,Xiaomi Inc.,42.8
+63,2024,3,ZTE Corporation,
+63,2024,3,total,
+64,2024,4,Apple Inc.,77.1
+64,2024,4,BlackBerry Limited,0.0
+64,2024,4,Coolpad Group Limited,
+64,2024,4,Gionee Communication Equipment Co. Ltd.,0.0
+64,2024,4,Google LLC,
+64,2024,4,HMD (Nokia),
+64,2024,4,HTC Corporation,
+64,2024,4,"Honor Device Co., Ltd.",17.6
+64,2024,4,"Huawei Technologies Co., Ltd.",12.7
+64,2024,4,Infinix Mobile,
+64,2024,4,Itel Mobile,
+64,2024,4,LG Electronics,0.0
+64,2024,4,Lenovo - Motorola,
+64,2024,4,Lenovo Group Ltd.,15.3
+64,2024,4,"Meizu Technology Co., Ltd.",
+64,2024,4,Micromax,
+64,2024,4,Microsoft Corporation,0.0
+64,2024,4,Motorola Mobility,
+64,2024,4,Nokia Corporation,
+64,2024,4,"Oppo Mobile Telecommunications Corp., Ltd.",36.8
+64,2024,4,"Realme Mobile Telecommunications Corp., Ltd.",
+64,2024,4,"Samsung Electronics Co., Ltd.",51.9
+64,2024,4,Sony Corporation,
+64,2024,4,TCLAlcatel,
+64,2024,4,Tecno Mobile,
+64,2024,4,"Transsion Holdings Co., Ltd.",27.2
+64,2024,4,"Vivo Communication Technology Co., Ltd.",26.7
+64,2024,4,Xiaomi Inc.,42.7
+64,2024,4,ZTE Corporation,
+64,2024,4,total,
+65,2025,1,Apple Inc.,56.94
+65,2025,1,BlackBerry Limited,0.0
+65,2025,1,Coolpad Group Limited,
+65,2025,1,Gionee Communication Equipment Co. Ltd.,0.0
+65,2025,1,Google LLC,
+65,2025,1,HMD (Nokia),
+65,2025,1,HTC Corporation,
+65,2025,1,"Honor Device Co., Ltd.",
+65,2025,1,"Huawei Technologies Co., Ltd.",15.1
+65,2025,1,Infinix Mobile,
+65,2025,1,Itel Mobile,
+65,2025,1,LG Electronics,0.0
+65,2025,1,Lenovo - Motorola,
+65,2025,1,Lenovo Group Ltd.,
+65,2025,1,"Meizu Technology Co., Ltd.",
+65,2025,1,Micromax,
+65,2025,1,Microsoft Corporation,0.0
+65,2025,1,Motorola Mobility,
+65,2025,1,Nokia Corporation,
+65,2025,1,"Oppo Mobile Telecommunications Corp., Ltd.",23.1
+65,2025,1,"Realme Mobile Telecommunications Corp., Ltd.",
+65,2025,1,"Samsung Electronics Co., Ltd.",60.55
+65,2025,1,Sony Corporation,
+65,2025,1,TCLAlcatel,
+65,2025,1,Tecno Mobile,
+65,2025,1,"Transsion Holdings Co., Ltd.",22.0
+65,2025,1,"Vivo Communication Technology Co., Ltd.",22.8
+65,2025,1,Xiaomi Inc.,41.8
+65,2025,1,ZTE Corporation,
+65,2025,1,total,
+66,2025,2,Apple Inc.,46.4
+66,2025,2,BlackBerry Limited,0.0
+66,2025,2,Coolpad Group Limited,
+66,2025,2,Gionee Communication Equipment Co. Ltd.,0.0
+66,2025,2,Google LLC,3.2
+66,2025,2,HMD (Nokia),
+66,2025,2,HTC Corporation,
+66,2025,2,"Honor Device Co., Ltd.",15.0
+66,2025,2,"Huawei Technologies Co., Ltd.",14.2
+66,2025,2,Infinix Mobile,
+66,2025,2,Itel Mobile,
+66,2025,2,LG Electronics,0.0
+66,2025,2,Lenovo - Motorola,
+66,2025,2,Lenovo Group Ltd.,14.5
+66,2025,2,"Meizu Technology Co., Ltd.",
+66,2025,2,Micromax,
+66,2025,2,Microsoft Corporation,0.0
+66,2025,2,Motorola Mobility,
+66,2025,2,Nokia Corporation,
+66,2025,2,"Oppo Mobile Telecommunications Corp., Ltd.",37.0
+66,2025,2,"Realme Mobile Telecommunications Corp., Ltd.",10.3
+66,2025,2,"Samsung Electronics Co., Ltd.",58.0
+66,2025,2,Sony Corporation,
+66,2025,2,TCLAlcatel,
+66,2025,2,Tecno Mobile,
+66,2025,2,"Transsion Holdings Co., Ltd.",25.1
+66,2025,2,"Vivo Communication Technology Co., Ltd.",27.1
+66,2025,2,Xiaomi Inc.,42.5
+66,2025,2,ZTE Corporation,
+66,2025,2,total,
+67,2025,3,Apple Inc.,56.75
+67,2025,3,BlackBerry Limited,0.0
+67,2025,3,Coolpad Group Limited,
+67,2025,3,Gionee Communication Equipment Co. Ltd.,0.0
+67,2025,3,Google LLC,
+67,2025,3,HMD (Nokia),
+67,2025,3,HTC Corporation,
+67,2025,3,"Honor Device Co., Ltd.",
+67,2025,3,"Huawei Technologies Co., Ltd.",
+67,2025,3,Infinix Mobile,
+67,2025,3,Itel Mobile,
+67,2025,3,LG Electronics,0.0
+67,2025,3,Lenovo - Motorola,15.2
+67,2025,3,Lenovo Group Ltd.,
+67,2025,3,"Meizu Technology Co., Ltd.",
+67,2025,3,Micromax,
+67,2025,3,Microsoft Corporation,0.0
+67,2025,3,Motorola Mobility,
+67,2025,3,Nokia Corporation,
+67,2025,3,"Oppo Mobile Telecommunications Corp., Ltd.",
+67,2025,3,"Realme Mobile Telecommunications Corp., Ltd.",
+67,2025,3,"Samsung Electronics Co., Ltd.",60.87
+67,2025,3,Sony Corporation,
+67,2025,3,TCLAlcatel,
+67,2025,3,Tecno Mobile,
+67,2025,3,"Transsion Holdings Co., Ltd.",29.1
+67,2025,3,"Vivo Communication Technology Co., Ltd.",28.6
+67,2025,3,Xiaomi Inc.,43.43
+67,2025,3,ZTE Corporation,
+67,2025,3,total,
+68,2025,4,Apple Inc.,81.3
+68,2025,4,BlackBerry Limited,0.0
+68,2025,4,Coolpad Group Limited,
+68,2025,4,Gionee Communication Equipment Co. Ltd.,0.0
+68,2025,4,Google LLC,
+68,2025,4,HMD (Nokia),
+68,2025,4,HTC Corporation,
+68,2025,4,"Honor Device Co., Ltd.",
+68,2025,4,"Huawei Technologies Co., Ltd.",
+68,2025,4,Infinix Mobile,
+68,2025,4,Itel Mobile,
+68,2025,4,LG Electronics,0.0
+68,2025,4,Lenovo - Motorola,16.76
+68,2025,4,Lenovo Group Ltd.,
+68,2025,4,"Meizu Technology Co., Ltd.",
+68,2025,4,Micromax,
+68,2025,4,Microsoft Corporation,0.0
+68,2025,4,Motorola Mobility,
+68,2025,4,Nokia Corporation,
+68,2025,4,"Oppo Mobile Telecommunications Corp., Ltd.",26.9
+68,2025,4,"Realme Mobile Telecommunications Corp., Ltd.",
+68,2025,4,"Samsung Electronics Co., Ltd.",61.2
+68,2025,4,Sony Corporation,
+68,2025,4,TCLAlcatel,
+68,2025,4,Tecno Mobile,
+68,2025,4,"Transsion Holdings Co., Ltd.",
+68,2025,4,"Vivo Communication Technology Co., Ltd.",27.0
+68,2025,4,Xiaomi Inc.,37.8
+68,2025,4,ZTE Corporation,
+68,2025,4,total,
+69,2026,1,Apple Inc.,61.1
+69,2026,1,BlackBerry Limited,0.0
+69,2026,1,Coolpad Group Limited,
+69,2026,1,Gionee Communication Equipment Co. Ltd.,0.0
+69,2026,1,Google LLC,
+69,2026,1,HMD (Nokia),
+69,2026,1,HTC Corporation,
+69,2026,1,"Honor Device Co., Ltd.",19.2
+69,2026,1,"Huawei Technologies Co., Ltd.",
+69,2026,1,Infinix Mobile,
+69,2026,1,Itel Mobile,
+69,2026,1,LG Electronics,0.0
+69,2026,1,Lenovo - Motorola,
+69,2026,1,Lenovo Group Ltd.,
+69,2026,1,"Meizu Technology Co., Ltd.",
+69,2026,1,Micromax,
+69,2026,1,Microsoft Corporation,0.0
+69,2026,1,Motorola Mobility,
+69,2026,1,Nokia Corporation,
+69,2026,1,"Oppo Mobile Telecommunications Corp., Ltd.",30.7
+69,2026,1,"Realme Mobile Telecommunications Corp., Ltd.",
+69,2026,1,"Samsung Electronics Co., Ltd.",63.9
+69,2026,1,Sony Corporation,
+69,2026,1,TCLAlcatel,
+69,2026,1,Tecno Mobile,
+69,2026,1,"Transsion Holdings Co., Ltd.",
+69,2026,1,"Vivo Communication Technology Co., Ltd.",21.25
+69,2026,1,Xiaomi Inc.,33.8
+69,2026,1,ZTE Corporation,
+69,2026,1,total,
